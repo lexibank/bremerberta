@@ -1,7 +1,9 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Bremer, Nate D. (2016): A Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia. SIL Electronic Survey Reports 2016-007. Dallas: SIL International.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:identifier": "https://www.sil.org/resources/publications/entry/69953",
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
@@ -12,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bremerberta",
-            "dc:created": "b84ffdb"
+            "dc:created": "1b5d793"
         },
         {
             "rdf:type": "prov:Entity",

@@ -1,5 +1,11 @@
 # A Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia
 
+Cite the source dataset as
+
+> Bremer, Nate D. (2016): A Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia. SIL Electronic Survey Reports 2016-007. Dallas: SIL International.
+
+Available online at https://www.sil.org/resources/publications/entry/69953
+
 ## Statistics
 
 
