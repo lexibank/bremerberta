@@ -1,0 +1,810 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,AmharicGloss
+Maiyu-1_hand-1,,Maiyu,1_hand,θabá,θabá,,,Bremer2016,,,እጅ
+Fadashi-1_hand-1,,Fadashi,1_hand,θabá,θabá,,,Bremer2016,,,እጅ
+Undulu-1_hand-1,,Undulu,1_hand,θabá,θabá,,,Bremer2016,,,እጅ
+BelejeGonfoye-1_hand-1,,BelejeGonfoye,1_hand,la:bá,la:bá,,,Bremer2016,,,እጅ
+Maiyu-2_arm-1,,Maiyu,2_arm,bʊʷa,bʊʷa,,,Bremer2016,,,እጅ
+Fadashi-2_arm-1,,Fadashi,2_arm,beː tuká,beː tuká,,,Bremer2016,,,እጅ
+Undulu-2_arm-1,,Undulu,2_arm,biʲé,biʲé,,,Bremer2016,,,እጅ
+BelejeGonfoye-2_arm-1,,BelejeGonfoye,2_arm,biʲé,biʲé,,,Bremer2016,,,እጅ
+Maiyu-3_alive-1,,Maiyu,3_alive,siː θaːre,siː θaːre,,,Bremer2016,,,በሕይወት
+Fadashi-3_alive-1,,Fadashi,3_alive,siː θaːre,siː θaːre,,,Bremer2016,,,በሕይወት
+Undulu-3_alive-1,,Undulu,3_alive,hiːʔiya,hiːʔiya,,,Bremer2016,,,በሕይወት
+BelejeGonfoye-3_alive-1,,BelejeGonfoye,3_alive,(mba) si lːaré,si lːaré,,,Bremer2016,,,በሕይወት
+Maiyu-4_spider-1,,Maiyu,4_spider,abarəbɛd,abarəbɛd,,,Bremer2016,,,ሸረሪት
+Fadashi-4_spider-1,,Fadashi,4_spider,abarabɛt,abarabɛt,,,Bremer2016,,,ሸረሪት
+Undulu-4_spider-1,,Undulu,4_spider,bəmːbɛt,bəmːbɛt,,,Bremer2016,,,ሸረሪት
+BelejeGonfoye-4_spider-1,,BelejeGonfoye,4_spider,abarabɛti,abarabɛti,,,Bremer2016,,,ሸረሪት
+Maiyu-5_caterpillar-1,,Maiyu,5_caterpillar,abɔbɔne,abɔbɔne,,,Bremer2016,,,ኣባጨጓሬ
+Fadashi-5_caterpillar-1,,Fadashi,5_caterpillar,abɔbɔne,abɔbɔne,,,Bremer2016,,,ኣባጨጓሬ
+Undulu-5_caterpillar-1,,Undulu,5_caterpillar,áːbɔbɔʔí,áːbɔbɔʔí,,,Bremer2016,,,ኣባጨጓሬ
+BelejeGonfoye-5_caterpillar-1,,BelejeGonfoye,5_caterpillar,ababɔʔi,ababɔʔi,,,Bremer2016,,,ኣባጨጓሬ
+Maiyu-6_navel-1,,Maiyu,6_navel,abuldu,abuldu,,,Bremer2016,,,እንብርት
+Fadashi-6_navel-1,,Fadashi,6_navel,korombo,korombo,,,Bremer2016,,,እንብርት
+Undulu-6_navel-1,,Undulu,6_navel,ágórómbo,ágórómbo,,,Bremer2016,,,እንብርት
+BelejeGonfoye-6_navel-1,,BelejeGonfoye,6_navel,abulːu,abulːu,,,Bremer2016,,,እንብርት
+Maiyu-7_butterfly-1,,Maiyu,7_butterfly,abúrbúdu,abúrbúdu,,,Bremer2016,,,ቢራቢሮ
+Fadashi-7_butterfly-1,,Fadashi,7_butterfly,aburbudu,aburbudu,,,Bremer2016,,,ቢራቢሮ
+Undulu-7_butterfly-1,,Undulu,7_butterfly,abúrbúdu,abúrbúdu,,,Bremer2016,,,ቢራቢሮ
+BelejeGonfoye-7_butterfly-1,,BelejeGonfoye,7_butterfly,aburbudu,aburbudu,,,Bremer2016,,,ቢራቢሮ
+Maiyu-8_besorry-1,,Maiyu,8_besorry,ʃúnga -áŋ,ʃúnga -áŋ,,,Bremer2016,,,አዘነ
+Fadashi-8_besorry-1,,Fadashi,8_besorry,hoseʲu,hoseʲu,,,Bremer2016,,,አዘነ
+Undulu-8_besorry-1,,Undulu,8_besorry,adːagoʃ gáŋ,adːagoʃ gáŋ,,,Bremer2016,,,አዘነ
+BelejeGonfoye-8_besorry-1,,BelejeGonfoye,8_besorry,nɛ dʒɛrɪbɪs,nɛ dʒɛrɪbɪs,,,Bremer2016,,,አዘነ
+Maiyu-9_lung-1,,Maiyu,9_lung,afaɲfaras’,afaɲfaras’,,,Bremer2016,,,ሳንባ
+Fadashi-9_lung-1,,Fadashi,9_lung,anfanforos’,anfanforos’,,,Bremer2016,,,ሳንባ
+Undulu-9_lung-1,,Undulu,9_lung,áːwáwórés’,áːwáwórés’,,,Bremer2016,,,ሳንባ
+BelejeGonfoye-9_lung-1,,BelejeGonfoye,9_lung,awawardʒi,awawardʒi,,,Bremer2016,,,ሳንባ
+Maiyu-10_fence-1,,Maiyu,10_fence,agoŋgór,agoŋgór,,,Bremer2016,,,አጥር
+Fadashi-10_fence-1,,Fadashi,10_fence,abɪliʲa,abɪliʲa,,,Bremer2016,,,አጥር
+Undulu-10_fence-1,,Undulu,10_fence,agoŋhór,agoŋhór,,,Bremer2016,,,አጥር
+BelejeGonfoye-10_fence-1,,BelejeGonfoye,10_fence,aːmaʲé,aːmaʲé,,,Bremer2016,,,አጥር
+Maiyu-11_thief-1,,Maiyu,11_thief,agɔrθé,agɔrθé,,,Bremer2016,,,ሌባ
+Fadashi-11_thief-1,,Fadashi,11_thief,agorá,agorá,,,Bremer2016,,,ሌባ
+Undulu-11_thief-1,,Undulu,11_thief,agorθa,agorθa,,,Bremer2016,,,ሌባ
+BelejeGonfoye-11_thief-1,,BelejeGonfoye,11_thief,agora,agora,,,Bremer2016,,,ሌባ
+Maiyu-12_pumpkin-1,,Maiyu,12_pumpkin,aːgu,aːgu,,,Bremer2016,,,ዱባ
+Fadashi-12_pumpkin-1,,Fadashi,12_pumpkin,agó,agó,,,Bremer2016,,,ዱባ
+Undulu-12_pumpkin-1,,Undulu,12_pumpkin,agóʔ,agóʔ,,,Bremer2016,,,ዱባ
+BelejeGonfoye-12_pumpkin-1,,BelejeGonfoye,12_pumpkin,aʔgó,aʔgó,,,Bremer2016,,,ዱባ
+Maiyu-13_brother-1,,Maiyu,13_brother,agudi,agudi,,,Bremer2016,,,ወንድም
+Fadashi-13_brother-1,,Fadashi,13_brother,agúdí,agúdí,,,Bremer2016,,,ወንድም
+Undulu-13_brother-1,,Undulu,13_brother,agúdíʔ,agúdíʔ,,,Bremer2016,,,ወንድም
+BelejeGonfoye-13_brother-1,,BelejeGonfoye,13_brother,agudiʔo,agudiʔo,,,Bremer2016,,,ወንድም
+Maiyu-14_sell-1,,Maiyu,14_sell,ʃibila alú,ʃibila alú,,,Bremer2016,,,ሸጠ
+Fadashi-14_sell-1,,Fadashi,14_sell,ɛlenelo,ɛlenelo,,,Bremer2016,,,ሸጠ
+Undulu-14_sell-1,,Undulu,14_sell,afíːjálu,afíːjálu,,,Bremer2016,,,ሸጠ
+BelejeGonfoye-14_sell-1,,BelejeGonfoye,14_sell,ɛlenolo,ɛlenolo,,,Bremer2016,,,ሸጠ
+Maiyu-15_betired-1,,Maiyu,15_betired,ʃílí,ʃílí,,,Bremer2016,,,ደከመ
+Fadashi-15_betired-1,,Fadashi,15_betired,shɪle,shɪle,,,Bremer2016,,,ደከመ
+Undulu-15_betired-1,,Undulu,15_betired,aʃílé,aʃílé,,,Bremer2016,,,ደከመ
+BelejeGonfoye-15_betired-1,,BelejeGonfoye,15_betired,ʃile / asɪle,ʃile,,,Bremer2016,,,ደከመ
+BelejeGonfoye-15_betired-2,,BelejeGonfoye,15_betired,ʃile / asɪle,asɪle,,,Bremer2016,,,ደከመ
+Maiyu-16_wealth-1,,Maiyu,16_wealth,ʃimbil,ʃimbil,,,Bremer2016,,,ሃብት
+Fadashi-16_wealth-1,,Fadashi,16_wealth,ʃɪmbil,ʃɪmbil,,,Bremer2016,,,ሃብት
+Undulu-16_wealth-1,,Undulu,16_wealth,nda ʃimbilu,nda ʃimbilu,,,Bremer2016,,,ሃብት
+BelejeGonfoye-16_wealth-1,,BelejeGonfoye,16_wealth,dʒidɛne,dʒidɛne,,,Bremer2016,,,ሃብት
+Maiyu-17_tooalsoagainfurthermore-1,,Maiyu,17_tooalsoagainfurthermore,ʃíŋ,ʃíŋ,,,Bremer2016,,,ደግሞ
+Fadashi-17_tooalsoagainfurthermore-1,,Fadashi,17_tooalsoagainfurthermore,le ali / ʃíɲ,le ali,,,Bremer2016,,,ደግሞ
+Fadashi-17_tooalsoagainfurthermore-2,,Fadashi,17_tooalsoagainfurthermore,le ali / ʃíɲ,ʃíɲ,,,Bremer2016,,,ደግሞ
+Undulu-17_tooalsoagainfurthermore-1,,Undulu,17_tooalsoagainfurthermore,dókole,dókole,,,Bremer2016,,,ደግሞ
+BelejeGonfoye-17_tooalsoagainfurthermore-1,,BelejeGonfoye,17_tooalsoagainfurthermore,mɪsi / tɛkolalɪ jali,mɪsi,,,Bremer2016,,,ደግሞ
+BelejeGonfoye-17_tooalsoagainfurthermore-2,,BelejeGonfoye,17_tooalsoagainfurthermore,mɪsi / tɛkolalɪ jali,tɛkolalɪ jali,,,Bremer2016,,,ደግሞ
+Maiyu-18_breakfast-1,,Maiyu,18_breakfast,al fat’úr,al fat’úr,,,Bremer2016,,,ቁርስ
+Fadashi-18_breakfast-1,,Fadashi,18_breakfast,fɛdari,fɛdari,,,Bremer2016,,,ቁርስ
+Undulu-18_breakfast-1,,Undulu,18_breakfast,áːsúːndu,áːsúːndu,,,Bremer2016,,,ቁርስ
+BelejeGonfoye-18_breakfast-1,,BelejeGonfoye,18_breakfast,awotʃo ndu,awotʃo ndu,,,Bremer2016,,,ቁርስ
+Maiyu-19_elephant-1,,Maiyu,19_elephant,"al fîl, ɔŋ",al fîl,,,Bremer2016,,,ዝሆን
+Maiyu-19_elephant-2,,Maiyu,19_elephant,"al fîl, ɔŋ",ɔŋ,,,Bremer2016,,,ዝሆን
+Fadashi-19_elephant-1,,Fadashi,19_elephant,mɛdege,mɛdege,,,Bremer2016,,,ዝሆን
+Undulu-19_elephant-1,,Undulu,19_elephant,alfîl,alfîl,,,Bremer2016,,,ዝሆን
+BelejeGonfoye-19_elephant-1,,BelejeGonfoye,19_elephant,metɪkeː,metɪkeː,,,Bremer2016,,,ዝሆን
+Maiyu-20_thursday-1,,Maiyu,20_thursday,al hamís,al hamís,,,Bremer2016,,,ሐሙሰ
+Fadashi-20_thursday-1,,Fadashi,20_thursday,alhamís,alhamís,,,Bremer2016,,,ሐሙሰ
+Undulu-20_thursday-1,,Undulu,20_thursday,alhamís,alhamís,,,Bremer2016,,,ሐሙሰ
+BelejeGonfoye-20_thursday-1,,BelejeGonfoye,20_thursday,laːri kəmɪso,laːri kəmɪso,,,Bremer2016,,,ሐሙሰ
+Maiyu-21_bespoiledrotten-1,,Maiyu,21_bespoiledrotten,s’ʊwí,s’ʊwí,,,Bremer2016,,,በሰበሰ
+Fadashi-21_bespoiledrotten-1,,Fadashi,21_bespoiledrotten,suːwaʔi,suːwaʔi,,,Bremer2016,,,በሰበሰ
+Undulu-21_bespoiledrotten-1,,Undulu,21_bespoiledrotten,rohé,rohé,,,Bremer2016,,,በሰበሰ
+BelejeGonfoye-21_bespoiledrotten-1,,BelejeGonfoye,21_bespoiledrotten,t͡ʃ’uwé,t͡ʃ’uwé,,,Bremer2016,,,በሰበሰ
+Maiyu-22_whirlwinddirtdevil-1,,Maiyu,22_whirlwinddirtdevil,ʃɛbaro,ʃɛbaro,,,Bremer2016,,,አዉለንፋስ
+Fadashi-22_whirlwinddirtdevil-1,,Fadashi,22_whirlwinddirtdevil,ʃɛboro,ʃɛboro,,,Bremer2016,,,አዉለንፋስ
+Undulu-22_whirlwinddirtdevil-1,,Undulu,22_whirlwinddirtdevil,adurdur,adurdur,,,Bremer2016,,,አዉለንፋስ
+BelejeGonfoye-22_whirlwinddirtdevil-1,,BelejeGonfoye,22_whirlwinddirtdevil,awːulé,awːulé,,,Bremer2016,,,አዉለንፋስ
+Maiyu-23_prayerandworship-1,,Maiyu,23_prayerandworship,"al ʔibáda, aːsɛla",al ʔibáda,,,Bremer2016,,,ጸሎትና አምልኮ
+Maiyu-23_prayerandworship-2,,Maiyu,23_prayerandworship,"al ʔibáda, aːsɛla",aːsɛla,,,Bremer2016,,,ጸሎትና አምልኮ
+Fadashi-23_prayerandworship-1,,Fadashi,23_prayerandworship,aːsɛla,aːsɛla,,,Bremer2016,,,ጸሎትና አምልኮ
+Undulu-23_prayerandworship-1,,Undulu,23_prayerandworship,aːsɛlaʔ,aːsɛlaʔ,,,Bremer2016,,,ጸሎትና አምልኮ
+BelejeGonfoye-23_prayerandworship-1,,BelejeGonfoye,23_prayerandworship,wɛgɛra,wɛgɛra,,,Bremer2016,,,ጸሎትና አምልኮ
+Maiyu-24_paper-1,,Maiyu,24_paper,al wárga,al wárga,,,Bremer2016,,,ወረቀት
+Fadashi-24_paper-1,,Fadashi,24_paper,alwarəga,alwarəga,,,Bremer2016,,,ወረቀት
+Undulu-24_paper-1,,Undulu,24_paper,alfaraga,alfaraga,,,Bremer2016,,,ወረቀት
+BelejeGonfoye-24_paper-1,,BelejeGonfoye,24_paper,dodo be,dodo be,,,Bremer2016,,,ወረቀት
+Maiyu-25_mother-1,,Maiyu,25_mother,amːá,amːá,,,Bremer2016,,,የእኔ እናት
+Fadashi-25_mother-1,,Fadashi,25_mother,amːá,amːá,,,Bremer2016,,,የእኔ እናት
+Undulu-25_mother-1,,Undulu,25_mother,áːʔó,áːʔó,,,Bremer2016,,,የእኔ እናት
+BelejeGonfoye-25_mother-1,,BelejeGonfoye,25_mother,dadi,dadi,,,Bremer2016,,,የእኔ እናት
+Maiyu-26_send-1,,Maiyu,26_send,agɛna,agɛna,,,Bremer2016,,,ላክ
+Fadashi-26_send-1,,Fadashi,26_send,̄nɛbenːa,̄nɛbenːa,,,Bremer2016,,,ላክ
+Undulu-26_send-1,,Undulu,26_send,hɛ́ːbena,hɛ́ːbena,,,Bremer2016,,,ላክ
+BelejeGonfoye-26_send-1,,BelejeGonfoye,26_send,jebɛne,jebɛne,,,Bremer2016,,,ላክ
+Maiyu-27_imprisontieup-1,,Maiyu,27_imprisontieup,"sɛ́gɛna, ɗɔːʃa",sɛ́gɛna,,,Bremer2016,,,ቀጣ
+Maiyu-27_imprisontieup-2,,Maiyu,27_imprisontieup,"sɛ́gɛna, ɗɔːʃa",ɗɔːʃa,,,Bremer2016,,,ቀጣ
+Fadashi-27_imprisontieup-1,,Fadashi,27_imprisontieup,ɗoːʃa,ɗoːʃa,,,Bremer2016,,,ቀጣ
+Undulu-27_imprisontieup-1,,Undulu,27_imprisontieup,ɗóːʃɛfa,ɗóːʃɛfa,,,Bremer2016,,,ቀጣ
+BelejeGonfoye-27_imprisontieup-1,,BelejeGonfoye,27_imprisontieup,ɗosɛne,ɗosɛne,,,Bremer2016,,,ቀጣ
+Maiyu-28_tasty-1,,Maiyu,28_tasty,s’ɛbí,s’ɛbí,,,Bremer2016,,,ጣፍጧል
+Fadashi-28_tasty-1,,Fadashi,28_tasty,s’oːbí,s’oːbí,,,Bremer2016,,,ጣፍጧል
+Undulu-28_tasty-1,,Undulu,28_tasty,nɛgɛnɛge,nɛgɛnɛge,,,Bremer2016,,,ጣፍጧል
+BelejeGonfoye-28_tasty-1,,BelejeGonfoye,28_tasty,tʃ’oɓɛneʲa,tʃ’oɓɛneʲa,,,Bremer2016,,,ጣፍጧል
+Maiyu-29_darken-1,,Maiyu,29_darken,ámilu aŋ,ámilu aŋ,,,Bremer2016,,,አጨለመ
+Fadashi-29_darken-1,,Fadashi,29_darken,aːmíle,aːmíle,,,Bremer2016,,,አጨለመ
+Undulu-29_darken-1,,Undulu,29_darken,amːbúwé,amːbúwé,,,Bremer2016,,,አጨለመ
+BelejeGonfoye-29_darken-1,,BelejeGonfoye,29_darken,aŋʲa milowe,aŋʲa milowe,,,Bremer2016,,,አጨለመ
+Maiyu-30_dryseason-1,,Maiyu,30_dryseason,amɔːzó,amɔːzó,,,Bremer2016,,,በጋ
+Fadashi-30_dryseason-1,,Fadashi,30_dryseason,aːmoːsó,aːmoːsó,,,Bremer2016,,,በጋ
+Undulu-30_dryseason-1,,Undulu,30_dryseason,aiyedʒɛlu,aiyedʒɛlu,,,Bremer2016,,,በጋ
+BelejeGonfoye-30_dryseason-1,,BelejeGonfoye,30_dryseason,la mundʒoʷ,la mundʒoʷ,,,Bremer2016,,,በጋ
+Maiyu-31_sisterinlaw-1,,Maiyu,31_sisterinlaw,amʊ́dudú,amʊ́dudú,,,Bremer2016,,,የሚስት እህት (ምራት)
+Fadashi-31_sisterinlaw-1,,Fadashi,31_sisterinlaw,máːʃí,máːʃí,,,Bremer2016,,,የሚስት እህት (ምራት)
+Undulu-31_sisterinlaw-1,,Undulu,31_sisterinlaw,máːʃí,máːʃí,,,Bremer2016,,,የሚስት እህት (ምራት)
+BelejeGonfoye-31_sisterinlaw-1,,BelejeGonfoye,31_sisterinlaw,mːbá maːsí,mːbá maːsí,,,Bremer2016,,,የሚስት እህት (ምራት)
+Maiyu-32_maize-1,,Maiyu,32_maize,amʊ́lːé,amʊ́lːé,,,Bremer2016,,,በቆሎ
+Fadashi-32_maize-1,,Fadashi,32_maize,sil bɛgaru,sil bɛgaru,,,Bremer2016,,,በቆሎ
+Undulu-32_maize-1,,Undulu,32_maize,sɛrábu,sɛrábu,,,Bremer2016,,,በቆሎ
+BelejeGonfoye-32_maize-1,,BelejeGonfoye,32_maize,laː ɲiɲdolo,laː ɲiɲdolo,,,Bremer2016,,,በቆሎ
+Maiyu-33_chicks-1,,Maiyu,33_chicks,p’íːpíʲó,p’íːpíʲó,,,Bremer2016,,,ጫጩት
+Fadashi-33_chicks-1,,Fadashi,33_chicks,bibiyo / mise guːle,bibiyo,,,Bremer2016,,,ጫጩት
+Fadashi-33_chicks-2,,Fadashi,33_chicks,bibiyo / mise guːle,mise guːle,,,Bremer2016,,,ጫጩት
+Undulu-33_chicks-1,,Undulu,33_chicks,mɪseʔ biːle,mɪseʔ biːle,,,Bremer2016,,,ጫጩት
+BelejeGonfoye-33_chicks-1,,BelejeGonfoye,33_chicks,ɓiɓiʲo,ɓiɓiʲo,,,Bremer2016,,,ጫጩት
+Maiyu-34_open-1,,Maiyu,34_open,pʊːdá,pʊːdá,,,Bremer2016,,,ከፈተ
+Fadashi-34_open-1,,Fadashi,34_open,ɓʊːdá,ɓʊːdá,,,Bremer2016,,,ከፈተ
+Undulu-34_open-1,,Undulu,34_open,ɓuːdaː,ɓuːdaː,,,Bremer2016,,,ከፈተ
+BelejeGonfoye-34_open-1,,BelejeGonfoye,34_open,ɓudɛne,ɓudɛne,,,Bremer2016,,,ከፈተ
+Maiyu-35_tellmakeknown-1,,Maiyu,35_tellmakeknown,p’ulá,p’ulá,,,Bremer2016,,,ነገረ
+Fadashi-35_tellmakeknown-1,,Fadashi,35_tellmakeknown,"ɓula, doːra",ɓula,,,Bremer2016,,,ነገረ
+Fadashi-35_tellmakeknown-2,,Fadashi,35_tellmakeknown,"ɓula, doːra",doːra,,,Bremer2016,,,ነገረ
+Undulu-35_tellmakeknown-1,,Undulu,35_tellmakeknown,θórógáː,θórógáː,,,Bremer2016,,,ነገረ
+BelejeGonfoye-35_tellmakeknown-1,,BelejeGonfoye,35_tellmakeknown,ɓuleʲane,ɓuleʲane,,,Bremer2016,,,ነገረ
+Maiyu-36_health-1,,Maiyu,36_health,bus’k’é gɔɗa,bus’k’é gɔɗa,,,Bremer2016,,,ጤና
+Fadashi-36_health-1,,Fadashi,36_health,eːgoːɗa,eːgoːɗa,,,Bremer2016,,,ጤና
+Undulu-36_health-1,,Undulu,36_health,góːɗé,góːɗé,,,Bremer2016,,,ጤና
+BelejeGonfoye-36_health-1,,BelejeGonfoye,36_health,goɗe,goɗe,,,Bremer2016,,,ጤና
+Maiyu-37_poundsmoothgrindfine-1,,Maiyu,37_poundsmoothgrindfine,rígis’iŋa,rígis’iŋa,,,Bremer2016,,,ደቀቀ
+Fadashi-37_poundsmoothgrindfine-1,,Fadashi,37_poundsmoothgrindfine,rɛgis’e,rɛgis’e,,,Bremer2016,,,ደቀቀ
+Undulu-37_poundsmoothgrindfine-1,,Undulu,37_poundsmoothgrindfine,díːsɛfaʔ,díːsɛfaʔ,,,Bremer2016,,,ደቀቀ
+BelejeGonfoye-37_poundsmoothgrindfine-1,,BelejeGonfoye,37_poundsmoothgrindfine,silːɪne,silːɪne,,,Bremer2016,,,ደቀቀ
+Maiyu-38_eye-1,,Maiyu,38_eye,are,are,,,Bremer2016,,,አይን
+Fadashi-38_eye-1,,Fadashi,38_eye,are / areʔolo,are,,,Bremer2016,,,አይን
+Fadashi-38_eye-2,,Fadashi,38_eye,are / areʔolo,areʔolo,,,Bremer2016,,,አይን
+Undulu-38_eye-1,,Undulu,38_eye,aroʔóló,aroʔóló,,,Bremer2016,,,አይን
+BelejeGonfoye-38_eye-1,,BelejeGonfoye,38_eye,aré,aré,,,Bremer2016,,,አይን
+Maiyu-39_forehead-1,,Maiyu,39_forehead,are gundi,are gundi,,,Bremer2016,,,ግንባር
+Fadashi-39_forehead-1,,Fadashi,39_forehead,are gundi,are gundi,,,Bremer2016,,,ግንባር
+Undulu-39_forehead-1,,Undulu,39_forehead,are gundi,are gundi,,,Bremer2016,,,ግንባር
+BelejeGonfoye-39_forehead-1,,BelejeGonfoye,39_forehead,are gundi,are gundi,,,Bremer2016,,,ግንባር
+Maiyu-40_tomorrow-1,,Maiyu,40_tomorrow,asːəbá,asːəbá,,,Bremer2016,,,ነገ
+Fadashi-40_tomorrow-1,,Fadashi,40_tomorrow,mɛnɗaʃi,mɛnɗaʃi,,,Bremer2016,,,ነገ
+Undulu-40_tomorrow-1,,Undulu,40_tomorrow,"menɗɛʃí, mendʒɛf",menɗɛʃí,,,Bremer2016,,,ነገ
+Undulu-40_tomorrow-2,,Undulu,40_tomorrow,"menɗɛʃí, mendʒɛf",mendʒɛf,,,Bremer2016,,,ነገ
+BelejeGonfoye-40_tomorrow-1,,BelejeGonfoye,40_tomorrow,uːʷé,uːʷé,,,Bremer2016,,,ነገ
+Maiyu-41_termitehill-1,,Maiyu,41_termitehill,p’agú,p’agú,,,Bremer2016,,,ኩይሳ (የምስጥ ቤት)
+Fadashi-41_termitehill-1,,Fadashi,41_termitehill,ɓaŋgó,ɓaŋgó,,,Bremer2016,,,ኩይሳ (የምስጥ ቤት)
+Undulu-41_termitehill-1,,Undulu,41_termitehill,ɓaŋgó,ɓaŋgó,,,Bremer2016,,,ኩይሳ (የምስጥ ቤት)
+BelejeGonfoye-41_termitehill-1,,BelejeGonfoye,41_termitehill,"ʃuli moro, ɓaŋgó",ʃuli moro,,,Bremer2016,,,ኩይሳ (የምስጥ ቤት)
+BelejeGonfoye-41_termitehill-2,,BelejeGonfoye,41_termitehill,"ʃuli moro, ɓaŋgó",ɓaŋgó,,,Bremer2016,,,ኩይሳ (የምስጥ ቤት)
+Maiyu-42_cultivateplough-1,,Maiyu,42_cultivateplough,p’áːla,p’áːla,,,Bremer2016,,,አርሰ
+Fadashi-42_cultivateplough-1,,Fadashi,42_cultivateplough,ɓaːle,ɓaːle,,,Bremer2016,,,አርሰ
+Undulu-42_cultivateplough-1,,Undulu,42_cultivateplough,ɓáːle,ɓáːle,,,Bremer2016,,,አርሰ
+BelejeGonfoye-42_cultivateplough-1,,BelejeGonfoye,42_cultivateplough,ɓáːle,ɓáːle,,,Bremer2016,,,አርሰ
+Maiyu-43_keepawayblock-1,,Maiyu,43_keepawayblock,p’aːra -ʔi,p’aːra -ʔi,,,Bremer2016,,,ከለከለ፣አራቀ
+Fadashi-43_keepawayblock-1,,Fadashi,43_keepawayblock,məriɛne,məriɛne,,,Bremer2016,,,ከለከለ፣አራቀ
+Undulu-43_keepawayblock-1,,Undulu,43_keepawayblock,məriɛne,məriɛne,,,Bremer2016,,,ከለከለ፣አራቀ
+BelejeGonfoye-43_keepawayblock-1,,BelejeGonfoye,43_keepawayblock,aʔurwaːne,aʔurwaːne,,,Bremer2016,,,ከለከለ፣አራቀ
+Maiyu-44_stand-1,,Maiyu,44_stand,p’eːla,p’eːla,,,Bremer2016,,,ቆመ
+Fadashi-44_stand-1,,Fadashi,44_stand,ɓeːlé,ɓeːlé,,,Bremer2016,,,ቆመ
+BelejeGonfoye-44_stand-1,,BelejeGonfoye,44_stand,ɓíːló,ɓíːló,,,Bremer2016,,,ቆመ
+Maiyu-45_postpillar-1,,Maiyu,45_postpillar,aʃíːba,aʃíːba,,,Bremer2016,,,ምሰሶ
+Fadashi-45_postpillar-1,,Fadashi,45_postpillar,"guɗuba, aʃiːba, ʃɪleli",guɗuba,,,Bremer2016,,,ምሰሶ
+Fadashi-45_postpillar-2,,Fadashi,45_postpillar,"guɗuba, aʃiːba, ʃɪleli",aʃiːba,,,Bremer2016,,,ምሰሶ
+Fadashi-45_postpillar-3,,Fadashi,45_postpillar,"guɗuba, aʃiːba, ʃɪleli",ʃɪleli,,,Bremer2016,,,ምሰሶ
+Undulu-45_postpillar-1,,Undulu,45_postpillar,gúɗúbí,gúɗúbí,,,Bremer2016,,,ምሰሶ
+BelejeGonfoye-45_postpillar-1,,BelejeGonfoye,45_postpillar,abiliʲo,abiliʲo,,,Bremer2016,,,ምሰሶ
+Maiyu-46_turnaround-1,,Maiyu,46_turnaround,áʃɪmbriŋa,áʃɪmbriŋa,,,Bremer2016,,,ዞረ
+Fadashi-46_turnaround-1,,Fadashi,46_turnaround,ʃɪmbira,ʃɪmbira,,,Bremer2016,,,ዞረ
+Undulu-46_turnaround-1,,Undulu,46_turnaround,"bɛrʃiŋá, agiʃiŋgɛríŋ",bɛrʃiŋá,,,Bremer2016,,,ዞረ
+Undulu-46_turnaround-2,,Undulu,46_turnaround,"bɛrʃiŋá, agiʃiŋgɛríŋ",agiʃiŋgɛríŋ,,,Bremer2016,,,ዞረ
+BelejeGonfoye-46_turnaround-1,,BelejeGonfoye,46_turnaround,ɗakʷoaʔe,ɗakʷoaʔe,,,Bremer2016,,,ዞረ
+Maiyu-47_shadow-1,,Maiyu,47_shadow,aʃirɪ́ŋk’íθ,aʃirɪ́ŋk’íθ,,,Bremer2016,,,ጥላ
+Fadashi-47_shadow-1,,Fadashi,47_shadow,"aːʃoré, aŋgɪʃir",aːʃoré,,,Bremer2016,,,ጥላ
+Fadashi-47_shadow-2,,Fadashi,47_shadow,"aːʃoré, aŋgɪʃir",aŋgɪʃir,,,Bremer2016,,,ጥላ
+Undulu-47_shadow-1,,Undulu,47_shadow,aːʃorén,aːʃorén,,,Bremer2016,,,ጥላ
+BelejeGonfoye-47_shadow-1,,BelejeGonfoye,47_shadow,asórí,asórí,,,Bremer2016,,,ጥላ
+Maiyu-48_mouthlanguage-1,,Maiyu,48_mouthlanguage,ndu,ndu,,,Bremer2016,,,ኣፍ
+Fadashi-48_mouthlanguage-1,,Fadashi,48_mouthlanguage,ndu,ndu,,,Bremer2016,,,ኣፍ
+Undulu-48_mouthlanguage-1,,Undulu,48_mouthlanguage,ndu,ndu,,,Bremer2016,,,ኣፍ
+BelejeGonfoye-48_mouthlanguage-1,,BelejeGonfoye,48_mouthlanguage,ndu,ndu,,,Bremer2016,,,ኣፍ
+Maiyu-49_lips-1,,Maiyu,49_lips,ndu ʃɛfa,ndu ʃɛfa,,,Bremer2016,,,ከንፈር
+Fadashi-49_lips-1,,Fadashi,49_lips,ndu ʃɛfaʔ,ndu ʃɛfaʔ,,,Bremer2016,,,ከንፈር
+Undulu-49_lips-1,,Undulu,49_lips,ndu ʃɛfaʔ,ndu ʃɛfaʔ,,,Bremer2016,,,ከንፈር
+BelejeGonfoye-49_lips-1,,BelejeGonfoye,49_lips,ndu ʃɛwa,ndu ʃɛwa,,,Bremer2016,,,ከንፈር
+Maiyu-50_sleep-1,,Maiyu,50_sleep,nɛndígi,nɛndígi,,,Bremer2016,,,እንቅልፍ
+Fadashi-50_sleep-1,,Fadashi,50_sleep,nɛndɛgi,nɛndɛgi,,,Bremer2016,,,እንቅልፍ
+Undulu-50_sleep-1,,Undulu,50_sleep,əndɪ́ge,əndɪ́ge,,,Bremer2016,,,እንቅልፍ
+BelejeGonfoye-50_sleep-1,,BelejeGonfoye,50_sleep,nɛdigi,nɛdigi,,,Bremer2016,,,እንቅልፍ
+Maiyu-51_half-1,,Maiyu,51_half,anːus,anːus,,,Bremer2016,,,
+Fadashi-51_half-1,,Fadashi,51_half,aːs’oma,aːs’oma,,,Bremer2016,,,
+Undulu-51_half-1,,Undulu,51_half,aːkiθowaʔ,aːkiθowaʔ,,,Bremer2016,,,
+BelejeGonfoye-51_half-1,,BelejeGonfoye,51_half,bebɛlolo,bebɛlolo,,,Bremer2016,,,
+Maiyu-52_flyv-1,,Maiyu,52_flyv,bədá,bədá,,,Bremer2016,,,በረረ
+Fadashi-52_flyv-1,,Fadashi,52_flyv,bədé,bədé,,,Bremer2016,,,በረረ
+Undulu-52_flyv-1,,Undulu,52_flyv,bədé,bədé,,,Bremer2016,,,በረረ
+BelejeGonfoye-52_flyv-1,,BelejeGonfoye,52_flyv,buːne,buːne,,,Bremer2016,,,በረረ
+Maiyu-53_behot-1,,Maiyu,53_behot,bɛɗí,bɛɗí,,,Bremer2016,,,ሞቀ
+Fadashi-53_behot-1,,Fadashi,53_behot,bɛɗi,bɛɗi,,,Bremer2016,,,ሞቀ
+Undulu-53_behot-1,,Undulu,53_behot,bɛɗí,bɛɗí,,,Bremer2016,,,ሞቀ
+BelejeGonfoye-53_behot-1,,BelejeGonfoye,53_behot,bəɗi,bəɗi,,,Bremer2016,,,ሞቀ
+Maiyu-54_besick-1,,Maiyu,54_besick,bɛɗí,bɛɗí,,,Bremer2016,,,ታመመ
+Fadashi-54_besick-1,,Fadashi,54_besick,sukuliŋe,sukuliŋe,,,Bremer2016,,,ታመመ
+Undulu-54_besick-1,,Undulu,54_besick,sukuθiŋe,sukuθiŋe,,,Bremer2016,,,ታመመ
+BelejeGonfoye-54_besick-1,,BelejeGonfoye,54_besick,t͡ʃ’uleʔe,t͡ʃ’uleʔe,,,Bremer2016,,,ታመመ
+Maiyu-55_bestrong-1,,Maiyu,55_bestrong,p’áɗiʔí,p’áɗiʔí,,,Bremer2016,,,ጠንካራ
+Fadashi-55_bestrong-1,,Fadashi,55_bestrong,ɓəɗiʔi,ɓəɗiʔi,,,Bremer2016,,,ጠንካራ
+Undulu-55_bestrong-1,,Undulu,55_bestrong,ɓə́ɗiʔé,ɓə́ɗiʔé,,,Bremer2016,,,ጠንካራ
+BelejeGonfoye-55_bestrong-1,,BelejeGonfoye,55_bestrong,ɓaɗolo,ɓaɗolo,,,Bremer2016,,,ጠንካራ
+Maiyu-56_hideconceal-1,,Maiyu,56_hideconceal,bəná,bəná,,,Bremer2016,,,ተደበቀ
+Fadashi-56_hideconceal-1,,Fadashi,56_hideconceal,bone,bone,,,Bremer2016,,,ተደበቀ
+Undulu-56_hideconceal-1,,Undulu,56_hideconceal,ɓóːkoló,ɓóːkoló,,,Bremer2016,,,ተደበቀ
+BelejeGonfoye-56_hideconceal-1,,BelejeGonfoye,56_hideconceal,ɓəŋoʔe,ɓəŋoʔe,,,Bremer2016,,,ተደበቀ
+Maiyu-57_catch-1,,Maiyu,57_catch,múːfa,múːfa,,,Bremer2016,,,ያዘ
+Fadashi-57_catch-1,,Fadashi,57_catch,mːoːne,mːoːne,,,Bremer2016,,,ያዘ
+Undulu-57_catch-1,,Undulu,57_catch,múːfo,múːfo,,,Bremer2016,,,ያዘ
+BelejeGonfoye-57_catch-1,,BelejeGonfoye,57_catch,mʷɔːne,mʷɔːne,,,Bremer2016,,,ያዘ
+Maiyu-58_bered-1,,Maiyu,58_bered,bɪɲɛní,bɪɲɛní,,,Bremer2016,,,ቀይ ሆነ
+Fadashi-58_bered-1,,Fadashi,58_bered,bɪni,bɪni,,,Bremer2016,,,ቀይ ሆነ
+Undulu-58_bered-1,,Undulu,58_bered,bɛní,bɛní,,,Bremer2016,,,ቀይ ሆነ
+BelejeGonfoye-58_bered-1,,BelejeGonfoye,58_bered,bɛɲi,bɛɲi,,,Bremer2016,,,ቀይ ሆነ
+Maiyu-59_stopprohibit-1,,Maiyu,59_stopprohibit,bəká,bəká,,,Bremer2016,,,አታድርግ፣ቆመ
+Fadashi-59_stopprohibit-1,,Fadashi,59_stopprohibit,beːká,beːká,,,Bremer2016,,,አታድርግ፣ቆመ
+Undulu-59_stopprohibit-1,,Undulu,59_stopprohibit,ari,ari,,,Bremer2016,,,አታድርግ፣ቆመ
+BelejeGonfoye-59_stopprohibit-1,,BelejeGonfoye,59_stopprohibit,biːlaʔo,biːlaʔo,,,Bremer2016,,,አታድርግ፣ቆመ
+Maiyu-60_enough-1,,Maiyu,60_enough,bəka,bəka,,,Bremer2016,,,በቃ!
+Fadashi-60_enough-1,,Fadashi,60_enough,koːɗe,koːɗe,,,Bremer2016,,,በቃ!
+Undulu-60_enough-1,,Undulu,60_enough,ɲéːʃe,ɲéːʃe,,,Bremer2016,,,በቃ!
+BelejeGonfoye-60_enough-1,,BelejeGonfoye,60_enough,kóːɗé,kóːɗé,,,Bremer2016,,,በቃ!
+Maiyu-61_sweet-1,,Maiyu,61_sweet,mɛnɛ́mɛɲɪní,mɛnɛ́mɛɲɪní,,,Bremer2016,,,ጣፈጠ
+Fadashi-61_sweet-1,,Fadashi,61_sweet,menémeniɲi,menémeniɲi,,,Bremer2016,,,ጣፈጠ
+Undulu-61_sweet-1,,Undulu,61_sweet,nɛkɪnɛki,nɛkɪnɛki,,,Bremer2016,,,ጣፈጠ
+BelejeGonfoye-61_sweet-1,,BelejeGonfoye,61_sweet,nɛnɛmɛnmeʔi,nɛnɛmɛnmeʔi,,,Bremer2016,,,ጣፈጠ
+Maiyu-62_women-1,,Maiyu,62_women,míːhi,míːhi,,,Bremer2016,,,ሴቶች
+Fadashi-62_women-1,,Fadashi,62_women,mehi,mehi,,,Bremer2016,,,ሴቶች
+BelejeGonfoye-62_women-1,,BelejeGonfoye,62_women,waː meʲile,waː meʲile,,,Bremer2016,,,ሴቶች
+Maiyu-63_wives-1,,Maiyu,63_wives,miːhi,miːhi,,,Bremer2016,,,ሚስቶች
+Fadashi-63_wives-1,,Fadashi,63_wives,mehi,mehi,,,Bremer2016,,,ሚስቶች
+Undulu-63_wives-1,,Undulu,63_wives,mɪhi,mɪhi,,,Bremer2016,,,ሚስቶች
+BelejeGonfoye-63_wives-1,,BelejeGonfoye,63_wives,waː ɓodole,waː ɓodole,,,Bremer2016,,,ሚስቶች
+Maiyu-64_snore-1,,Maiyu,64_snore,bɔŋgóri,bɔŋgóri,,,Bremer2016,,,ኣንኮራፋ
+Fadashi-64_snore-1,,Fadashi,64_snore,haroɗi,haroɗi,,,Bremer2016,,,ኣንኮራፋ
+Undulu-64_snore-1,,Undulu,64_snore,goróɗi,goróɗi,,,Bremer2016,,,ኣንኮራፋ
+BelejeGonfoye-64_snore-1,,BelejeGonfoye,64_snore,ɲarɗoɗe,ɲarɗoɗe,,,Bremer2016,,,ኣንኮራፋ
+Maiyu-65_frog-1,,Maiyu,65_frog,bɔñɔ́ʃ,bɔñɔ́ʃ,,,Bremer2016,,,እንቁራሪት
+Fadashi-65_frog-1,,Fadashi,65_frog,boŋoʃ,boŋoʃ,,,Bremer2016,,,እንቁራሪት
+Undulu-65_frog-1,,Undulu,65_frog,boŋkóʃ,boŋkóʃ,,,Bremer2016,,,እንቁራሪት
+BelejeGonfoye-65_frog-1,,BelejeGonfoye,65_frog,koŋosi,koŋosi,,,Bremer2016,,,እንቁራሪት
+Maiyu-66_insultoffend-1,,Maiyu,66_insultoffend,bɔʃa,bɔʃa,,,Bremer2016,,,ሰደበ
+Fadashi-66_insultoffend-1,,Fadashi,66_insultoffend,bóʃa,bóʃa,,,Bremer2016,,,ሰደበ
+Undulu-66_insultoffend-1,,Undulu,66_insultoffend,bóːʃa,bóːʃa,,,Bremer2016,,,ሰደበ
+BelejeGonfoye-66_insultoffend-1,,BelejeGonfoye,66_insultoffend,bosa,bosa,,,Bremer2016,,,ሰደበ
+Maiyu-67_return-1,,Maiyu,67_return,maθá,maθá,,,Bremer2016,,,ተመለሰ፣ሄደ
+Fadashi-67_return-1,,Fadashi,67_return,moliaʔi,moliaʔi,,,Bremer2016,,,ተመለሰ፣ሄደ
+Undulu-67_return-1,,Undulu,67_return,mɛθóʔilo,mɛθóʔilo,,,Bremer2016,,,ተመለሰ፣ሄደ
+BelejeGonfoye-67_return-1,,BelejeGonfoye,67_return,nolaʔolo,nolaʔolo,,,Bremer2016,,,ተመለሰ፣ሄደ
+Maiyu-68_rainbow-1,,Maiyu,68_rainbow,məzəlo,məzəlo,,,Bremer2016,,,ቀስተዳመና
+Fadashi-68_rainbow-1,,Fadashi,68_rainbow,mozol,mozol,,,Bremer2016,,,ቀስተዳመና
+Undulu-68_rainbow-1,,Undulu,68_rainbow,mogól,mogól,,,Bremer2016,,,ቀስተዳመና
+BelejeGonfoye-68_rainbow-1,,BelejeGonfoye,68_rainbow,amuʷgaʔo,amuʷgaʔo,,,Bremer2016,,,ቀስተዳመና
+Maiyu-69_evening-1,,Maiyu,69_evening,mbə́ giʃú,mbə́ giʃú,,,Bremer2016,,,ምሽት
+Fadashi-69_evening-1,,Fadashi,69_evening,giːgije,giːgije,,,Bremer2016,,,ምሽት
+Undulu-69_evening-1,,Undulu,69_evening,maː͡dʒíhe,maː͡dʒíhe,,,Bremer2016,,,ምሽት
+BelejeGonfoye-69_evening-1,,BelejeGonfoye,69_evening,aːbule,aːbule,,,Bremer2016,,,ምሽት
+Maiyu-70_theirs-1,,Maiyu,70_theirs,mbə́ máre,mbə́ máre,,,Bremer2016,,,የእነሱ
+Fadashi-70_theirs-1,,Fadashi,70_theirs,mbəmare,mbəmare,,,Bremer2016,,,የእነሱ
+Undulu-70_theirs-1,,Undulu,70_theirs,mbə́máre,mbə́máre,,,Bremer2016,,,የእነሱ
+BelejeGonfoye-70_theirs-1,,BelejeGonfoye,70_theirs,mbəmaré,mbəmaré,,,Bremer2016,,,የእነሱ
+Maiyu-71_yourspl-1,,Maiyu,71_yourspl,mbə́ ŋgáma,mbə́ ŋgáma,,,Bremer2016,,,የእናንተ
+Fadashi-71_yourspl-1,,Fadashi,71_yourspl,mbəma,mbəma,,,Bremer2016,,,የእናንተ
+Undulu-71_yourspl-1,,Undulu,71_yourspl,mbúma,mbúma,,,Bremer2016,,,የእናንተ
+BelejeGonfoye-71_yourspl-1,,BelejeGonfoye,71_yourspl,mbəma,mbəma,,,Bremer2016,,,የእናንተ
+Maiyu-72_bebecomewet-1,,Maiyu,72_bebecomewet,p’ʊ́s’í,p’ʊ́s’í,,,Bremer2016,,,ራሰ፣ረጠበ
+Fadashi-72_bebecomewet-1,,Fadashi,72_bebecomewet,ɓus’i,ɓus’i,,,Bremer2016,,,ራሰ፣ረጠበ
+Undulu-72_bebecomewet-1,,Undulu,72_bebecomewet,ɓús’í,ɓús’í,,,Bremer2016,,,ራሰ፣ረጠበ
+BelejeGonfoye-72_bebecomewet-1,,BelejeGonfoye,72_bebecomewet,ɓutʃ’i,ɓutʃ’i,,,Bremer2016,,,ራሰ፣ረጠበ
+Fadashi-73_uncle-1,,Fadashi,73_uncle,bobo gwalé,bobo gwalé,,,Bremer2016,,,
+BelejeGonfoye-73_uncle-1,,BelejeGonfoye,73_uncle,boːbo agudane,boːbo agudane,,,Bremer2016,,,
+Maiyu-74_body-1,,Maiyu,74_body,bʊsk’e,bʊsk’e,,,Bremer2016,,,ሰውነት
+Fadashi-74_body-1,,Fadashi,74_body,bus’ike,bus’ike,,,Bremer2016,,,ሰውነት
+Undulu-74_body-1,,Undulu,74_body,bɪsk’e,bɪsk’e,,,Bremer2016,,,ሰውነት
+BelejeGonfoye-74_body-1,,BelejeGonfoye,74_body,bɪsɪk’e,bɪsɪk’e,,,Bremer2016,,,ሰውነት
+Maiyu-75_giveit-1,,Maiyu,75_giveit,daː,daː,,,Bremer2016,,,ሰጠ
+Fadashi-75_giveit-1,,Fadashi,75_giveit,ndɛne,ndɛne,,,Bremer2016,,,ሰጠ
+Undulu-75_giveit-1,,Undulu,75_giveit,ndɪné,ndɪné,,,Bremer2016,,,ሰጠ
+BelejeGonfoye-75_giveit-1,,BelejeGonfoye,75_giveit,ndɛnːe,ndɛnːe,,,Bremer2016,,,ሰጠ
+Maiyu-76_fatn-1,,Maiyu,76_fatn,mək’ɔʃ,mək’ɔʃ,,,Bremer2016,,,ጮማ
+Fadashi-76_fatn-1,,Fadashi,76_fatn,mək’oʃ,mək’oʃ,,,Bremer2016,,,ጮማ
+Undulu-76_fatn-1,,Undulu,76_fatn,mok’oʃ,mok’oʃ,,,Bremer2016,,,ጮማ
+BelejeGonfoye-76_fatn-1,,BelejeGonfoye,76_fatn,k’oːsi,k’oːsi,,,Bremer2016,,,ጮማ
+Maiyu-77_otheranother-1,,Maiyu,77_otheranother,mánañ,mánañ,,,Bremer2016,,,ሌላ
+Fadashi-77_otheranother-1,,Fadashi,77_otheranother,maːmaŋ,maːmaŋ,,,Bremer2016,,,ሌላ
+Undulu-77_otheranother-1,,Undulu,77_otheranother,mɓɪɗiŋgu,mɓɪɗiŋgu,,,Bremer2016,,,ሌላ
+BelejeGonfoye-77_otheranother-1,,BelejeGonfoye,77_otheranother,mbə siʲe,mbə siʲe,,,Bremer2016,,,ሌላ
+Maiyu-78_dawn-1,,Maiyu,78_dawn,mans’aré,mans’aré,,,Bremer2016,,,ንጋት
+Fadashi-78_dawn-1,,Fadashi,78_dawn,ansaːre,ansaːre,,,Bremer2016,,,ንጋት
+Undulu-78_dawn-1,,Undulu,78_dawn,men͡dʒɛf,men͡dʒɛf,,,Bremer2016,,,ንጋት
+BelejeGonfoye-78_dawn-1,,BelejeGonfoye,78_dawn,antʃ’ɛre,antʃ’ɛre,,,Bremer2016,,,ንጋት
+Maiyu-79_father-1,,Maiyu,79_father,abbá,abbá,,,Bremer2016,,,
+Fadashi-79_father-1,,Fadashi,79_father,abːa,abːa,,,Bremer2016,,,
+Undulu-79_father-1,,Undulu,79_father,aːb͡aiyó,aːb͡aiyó,,,Bremer2016,,,
+BelejeGonfoye-79_father-1,,BelejeGonfoye,79_father,boːbo,boːbo,,,Bremer2016,,,
+Maiyu-80_bedirty-1,,Maiyu,80_bedirty,diɗí,diɗí,,,Bremer2016,,,ቆሸሸ
+Fadashi-80_bedirty-1,,Fadashi,80_bedirty,diːde,diːde,,,Bremer2016,,,ቆሸሸ
+Undulu-80_bedirty-1,,Undulu,80_bedirty,bɛlɛsí,bɛlɛsí,,,Bremer2016,,,ቆሸሸ
+BelejeGonfoye-80_bedirty-1,,BelejeGonfoye,80_bedirty,diːɗolo,diːɗolo,,,Bremer2016,,,ቆሸሸ
+Maiyu-81_rope-1,,Maiyu,81_rope,"diːŋí, mʊrθa",diːŋí,,,Bremer2016,,,ገመድ
+Maiyu-81_rope-2,,Maiyu,81_rope,"diːŋí, mʊrθa",mʊrθa,,,Bremer2016,,,ገመድ
+Fadashi-81_rope-1,,Fadashi,81_rope,maːrá,maːrá,,,Bremer2016,,,ገመድ
+Undulu-81_rope-1,,Undulu,81_rope,marθá,marθá,,,Bremer2016,,,ገመድ
+BelejeGonfoye-81_rope-1,,BelejeGonfoye,81_rope,deːɲi,deːɲi,,,Bremer2016,,,ገመድ
+Maiyu-82_teacher-1,,Maiyu,82_teacher,maːbə́ gɛrəŋí,maːbə́ gɛrəŋí,,,Bremer2016,,,አስተማሪ
+Fadashi-82_teacher-1,,Fadashi,82_teacher,nda gɛraʔi,nda gɛraʔi,,,Bremer2016,,,አስተማሪ
+Undulu-82_teacher-1,,Undulu,82_teacher,ndá gɛraʔí,ndá gɛraʔí,,,Bremer2016,,,አስተማሪ
+BelejeGonfoye-82_teacher-1,,BelejeGonfoye,82_teacher,mba amotiʷa are,mba amotiʷa are,,,Bremer2016,,,አስተማሪ
+Maiyu-83_farmer-1,,Maiyu,83_farmer,maːbá p’áːlí,maːbá p’áːlí,,,Bremer2016,,,ገበሬ
+Fadashi-83_farmer-1,,Fadashi,83_farmer,nda ɓálí,nda ɓálí,,,Bremer2016,,,ገበሬ
+Undulu-83_farmer-1,,Undulu,83_farmer,ndá ɓɛ́lí,ndá ɓɛ́lí,,,Bremer2016,,,ገበሬ
+BelejeGonfoye-83_farmer-1,,BelejeGonfoye,83_farmer,mba ɓəli,mba ɓəli,,,Bremer2016,,,ገበሬ
+Maiyu-84_sewmend-1,,Maiyu,84_sewmend,gɔrá,gɔrá,,,Bremer2016,,,ሰፋ
+Fadashi-84_sewmend-1,,Fadashi,84_sewmend,korá,korá,,,Bremer2016,,,ሰፋ
+Undulu-84_sewmend-1,,Undulu,84_sewmend,goráfa,goráfa,,,Bremer2016,,,ሰፋ
+BelejeGonfoye-84_sewmend-1,,BelejeGonfoye,84_sewmend,gorá(ne),gorá,,,Bremer2016,,,ሰፋ
+Maiyu-85_yesterday-1,,Maiyu,85_yesterday,dʒíːdí,dʒíːdí,,,Bremer2016,,,
+Fadashi-85_yesterday-1,,Fadashi,85_yesterday,gíːjé,gíːjé,,,Bremer2016,,,
+Undulu-85_yesterday-1,,Undulu,85_yesterday,gɪfé,gɪfé,,,Bremer2016,,,
+BelejeGonfoye-85_yesterday-1,,BelejeGonfoye,85_yesterday,maːgiːʲe,maːgiːʲe,,,Bremer2016,,,
+Maiyu-86_jump-1,,Maiyu,86_jump,gʊ́da,gʊ́da,,,Bremer2016,,,ዘለለ
+Fadashi-86_jump-1,,Fadashi,86_jump,gúːɗɛ,gúːɗɛ,,,Bremer2016,,,ዘለለ
+Undulu-86_jump-1,,Undulu,86_jump,ho:ré,ho:ré,,,Bremer2016,,,ዘለለ
+BelejeGonfoye-86_jump-1,,BelejeGonfoye,86_jump,hóɾé,hóɾé,,,Bremer2016,,,ዘለለ
+Maiyu-87_baboon-1,,Maiyu,87_baboon,dʊ́ʷosh,dʊ́ʷosh,,,Bremer2016,,,ዝንጀሮ
+Fadashi-87_baboon-1,,Fadashi,87_baboon,duʔaʃ,duʔaʃ,,,Bremer2016,,,ዝንጀሮ
+Undulu-87_baboon-1,,Undulu,87_baboon,tóːʃ,tóːʃ,,,Bremer2016,,,ዝንጀሮ
+BelejeGonfoye-87_baboon-1,,BelejeGonfoye,87_baboon,doːʃi,doːʃi,,,Bremer2016,,,ዝንጀሮ
+Maiyu-88_bedifferentdiffer-1,,Maiyu,88_bedifferentdiffer,ɗɛfəru,ɗɛfəru,,,Bremer2016,,,ተለየ
+Fadashi-88_bedifferentdiffer-1,,Fadashi,88_bedifferentdiffer,faːra gundi,faːra gundi,,,Bremer2016,,,ተለየ
+Undulu-88_bedifferentdiffer-1,,Undulu,88_bedifferentdiffer,dɛgasu úlú,dɛgasu úlú,,,Bremer2016,,,ተለየ
+BelejeGonfoye-88_bedifferentdiffer-1,,BelejeGonfoye,88_bedifferentdiffer,aʔteʲʔe,aʔteʲʔe,,,Bremer2016,,,ተለየ
+Maiyu-89_daybeforeyesterday-1,,Maiyu,89_daybeforeyesterday,dʒíːdímáŋ,dʒíːdímáŋ,,,Bremer2016,,,ከትላንት ወዲያ
+Fadashi-89_daybeforeyesterday-1,,Fadashi,89_daybeforeyesterday,giːʲa menːdo,giːʲa menːdo,,,Bremer2016,,,ከትላንት ወዲያ
+Undulu-89_daybeforeyesterday-1,,Undulu,89_daybeforeyesterday,mːóːsɛle,mːóːsɛle,,,Bremer2016,,,ከትላንት ወዲያ
+BelejeGonfoye-89_daybeforeyesterday-1,,BelejeGonfoye,89_daybeforeyesterday,uʔweː duɲku,uʔweː duɲku,,,Bremer2016,,,ከትላንት ወዲያ
+Maiyu-90_today-1,,Maiyu,90_today,ʃɛkɔŋ,ʃɛkɔŋ,,,Bremer2016,,,
+Fadashi-90_today-1,,Fadashi,90_today,hosʃoɗaŋ,hosʃoɗaŋ,,,Bremer2016,,,
+Undulu-90_today-1,,Undulu,90_today,təkːolé,təkːolé,,,Bremer2016,,,
+BelejeGonfoye-90_today-1,,BelejeGonfoye,90_today,toʷkulalo,toʷkulalo,,,Bremer2016,,,
+Maiyu-91_grow-1,,Maiyu,91_grow,ɗáːŋa,ɗáːŋa,,,Bremer2016,,,አደገ
+Fadashi-91_grow-1,,Fadashi,91_grow,ɗuɲé,ɗuɲé,,,Bremer2016,,,አደገ
+Undulu-91_grow-1,,Undulu,91_grow,ɗúɲé,ɗúɲé,,,Bremer2016,,,አደገ
+BelejeGonfoye-91_grow-1,,BelejeGonfoye,91_grow,ɗuːɲe,ɗuːɲe,,,Bremer2016,,,አደገ
+Maiyu-92_becold-1,,Maiyu,92_becold,ɗɛʃí,ɗɛʃí,,,Bremer2016,,,ቀዘቀዘ
+Fadashi-92_becold-1,,Fadashi,92_becold,ɗaːʃé,ɗaːʃé,,,Bremer2016,,,ቀዘቀዘ
+Undulu-92_becold-1,,Undulu,92_becold,ɗaʃé,ɗaʃé,,,Bremer2016,,,ቀዘቀዘ
+BelejeGonfoye-92_becold-1,,BelejeGonfoye,92_becold,ɗaːse,ɗaːse,,,Bremer2016,,,ቀዘቀዘ
+Maiyu-93_ask-1,,Maiyu,93_ask,ɗɔk’ɔθa,ɗɔk’ɔθa,,,Bremer2016,,,ጠየቀ
+Fadashi-93_ask-1,,Fadashi,93_ask,ɗokoθa,ɗokoθa,,,Bremer2016,,,ጠየቀ
+Undulu-93_ask-1,,Undulu,93_ask,dukuθa,dukuθa,,,Bremer2016,,,ጠየቀ
+BelejeGonfoye-93_ask-1,,BelejeGonfoye,93_ask,dokolɛne,dokolɛne,,,Bremer2016,,,ጠየቀ
+Maiyu-94_sitsitdown-1,,Maiyu,94_sitsitdown,ɗɔŋɔ́ʃa,ɗɔŋɔ́ʃa,,,Bremer2016,,,ተቀመጠ
+Fadashi-94_sitsitdown-1,,Fadashi,94_sitsitdown,ɗoŋoʃa,ɗoŋoʃa,,,Bremer2016,,,ተቀመጠ
+Undulu-94_sitsitdown-1,,Undulu,94_sitsitdown,ʃəŋóːθa,ʃəŋóːθa,,,Bremer2016,,,ተቀመጠ
+BelejeGonfoye-94_sitsitdown-1,,BelejeGonfoye,94_sitsitdown,ɗoŋose,ɗoŋose,,,Bremer2016,,,ተቀመጠ
+Maiyu-95_beshort-1,,Maiyu,95_beshort,ɗʊ́gurí,ɗʊ́gurí,,,Bremer2016,,,አጠረ
+Fadashi-95_beshort-1,,Fadashi,95_beshort,tʃ’ɪdɛri,tʃ’ɪdɛri,,,Bremer2016,,,አጠረ
+Undulu-95_beshort-1,,Undulu,95_beshort,dʒidɛri,dʒidɛri,,,Bremer2016,,,አጠረ
+BelejeGonfoye-95_beshort-1,,BelejeGonfoye,95_beshort,k’ideɾe,k’ideɾe,,,Bremer2016,,,አጠረ
+Maiyu-96_smoken-1,,Maiyu,96_smoken,ɗʊːθa,ɗʊːθa,,,Bremer2016,,,ጭስ
+Fadashi-96_smoken-1,,Fadashi,96_smoken,ɗoːθa,ɗoːθa,,,Bremer2016,,,ጭስ
+Undulu-96_smoken-1,,Undulu,96_smoken,ɗuːθa,ɗuːθa,,,Bremer2016,,,ጭስ
+BelejeGonfoye-96_smoken-1,,BelejeGonfoye,96_smoken,ɗuːla,ɗuːla,,,Bremer2016,,,ጭስ
+Maiyu-97_judgev-1,,Maiyu,97_judgev,fə́rada,fə́rada,,,Bremer2016,,,ፈረደ
+Fadashi-97_judgev-1,,Fadashi,97_judgev,"fárada, haga mofa",fárada,,,Bremer2016,,,ፈረደ
+Fadashi-97_judgev-2,,Fadashi,97_judgev,"fárada, haga mofa",haga mofa,,,Bremer2016,,,ፈረደ
+Undulu-97_judgev-1,,Undulu,97_judgev,haga mofa,haga mofa,,,Bremer2016,,,ፈረደ
+BelejeGonfoye-97_judgev-1,,BelejeGonfoye,97_judgev,ne k’ilogɛ nɛne,ne k’ilogɛ nɛne,,,Bremer2016,,,ፈረደ
+Fadashi-98_proudconceited-1,,Fadashi,98_proudconceited,ʃoːfaʔi,ʃoːfaʔi,,,Bremer2016,,,ኩራተኛ
+Undulu-98_proudconceited-1,,Undulu,98_proudconceited,kiθ kɛné,kiθ kɛné,,,Bremer2016,,,ኩራተኛ
+BelejeGonfoye-98_proudconceited-1,,BelejeGonfoye,98_proudconceited,hoɓəde,hoɓəde,,,Bremer2016,,,ኩራተኛ
+Maiyu-99_oil-1,,Maiyu,99_oil,k’ɔʃ,k’ɔʃ,,,Bremer2016,,,ዘይት
+Fadashi-99_oil-1,,Fadashi,99_oil,k’oʃ,k’oʃ,,,Bremer2016,,,ዘይት
+Undulu-99_oil-1,,Undulu,99_oil,k’oʃ,k’oʃ,,,Bremer2016,,,ዘይት
+BelejeGonfoye-99_oil-1,,BelejeGonfoye,99_oil,k’oɾi,k’oɾi,,,Bremer2016,,,ዘይት
+Maiyu-100_boat-1,,Maiyu,100_boat,k’urfe,k’urfe,,,Bremer2016,,,መርከብ
+Fadashi-100_boat-1,,Fadashi,100_boat,k’urfe,k’urfe,,,Bremer2016,,,መርከብ
+Undulu-100_boat-1,,Undulu,100_boat,bidɛru,bidɛru,,,Bremer2016,,,መርከብ
+Maiyu-101_again-1,,Maiyu,101_again,fíʃ,fíʃ,,,Bremer2016,,,ኣንደገና
+Fadashi-101_again-1,,Fadashi,101_again,moːθeju / fiʃ,moːθeju,,,Bremer2016,,,ኣንደገና
+Fadashi-101_again-2,,Fadashi,101_again,moːθeju / fiʃ,fiʃ,,,Bremer2016,,,ኣንደገና
+Undulu-101_again-1,,Undulu,101_again,mɪʃiŋ́̊,mɪʃiŋ́̊,,,Bremer2016,,,ኣንደገና
+BelejeGonfoye-101_again-1,,BelejeGonfoye,101_again,ŋolalolo,ŋolalolo,,,Bremer2016,,,ኣንደገና
+Maiyu-102_money-1,,Maiyu,102_money,fʊːda,fʊːda,,,Bremer2016,,,ገንዘብ
+Fadashi-102_money-1,,Fadashi,102_money,hoːda,hoːda,,,Bremer2016,,,ገንዘብ
+Undulu-102_money-1,,Undulu,102_money,birɗi,birɗi,,,Bremer2016,,,ገንዘብ
+BelejeGonfoye-102_money-1,,BelejeGonfoye,102_money,sɪmbɪli,sɪmbɪli,,,Bremer2016,,,ገንዘብ
+Maiyu-103_rabbit-1,,Maiyu,103_rabbit,fʊ́ːfúr,fʊ́ːfúr,,,Bremer2016,,,ጥንቸል
+Fadashi-103_rabbit-1,,Fadashi,103_rabbit,hóːhór,hóːhór,,,Bremer2016,,,ጥንቸል
+Undulu-103_rabbit-1,,Undulu,103_rabbit,fúːfúr,fúːfúr,,,Bremer2016,,,ጥንቸል
+BelejeGonfoye-103_rabbit-1,,BelejeGonfoye,103_rabbit,aːʷoːɾi,aːʷoːɾi,,,Bremer2016,,,ጥንቸል
+Maiyu-104_beforetime-1,,Maiyu,104_beforetime,gə́bʊl,gə́bʊl,,,Bremer2016,,,በፊት
+Fadashi-104_beforetime-1,,Fadashi,104_beforetime,ɓəɗé,ɓəɗé,,,Bremer2016,,,በፊት
+Undulu-104_beforetime-1,,Undulu,104_beforetime,ɓɛɗé,ɓɛɗé,,,Bremer2016,,,በፊት
+BelejeGonfoye-104_beforetime-1,,BelejeGonfoye,104_beforetime,lara gundi,lara gundi,,,Bremer2016,,,በፊት
+Maiyu-105_bamboo-1,,Maiyu,105_bamboo,kaːgú,kaːgú,,,Bremer2016,,,ቀርከሀ
+Fadashi-105_bamboo-1,,Fadashi,105_bamboo,kaːgú,kaːgú,,,Bremer2016,,,ቀርከሀ
+Undulu-105_bamboo-1,,Undulu,105_bamboo,gaːgú,gaːgú,,,Bremer2016,,,ቀርከሀ
+BelejeGonfoye-105_bamboo-1,,BelejeGonfoye,105_bamboo,kaːgu,kaːgu,,,Bremer2016,,,ቀርከሀ
+Maiyu-106_begreen-1,,Maiyu,106_begreen,gɛlasí,gɛlasí,,,Bremer2016,,,አረንጓዴ ሆነ
+Fadashi-106_begreen-1,,Fadashi,106_begreen,galasí,galasí,,,Bremer2016,,,አረንጓዴ ሆነ
+Undulu-106_begreen-1,,Undulu,106_begreen,galazí,galazí,,,Bremer2016,,,አረንጓዴ ሆነ
+BelejeGonfoye-106_begreen-1,,BelejeGonfoye,106_begreen,mbə gɛgɛdəkɛdi,mbə gɛgɛdəkɛdi,,,Bremer2016,,,አረንጓዴ ሆነ
+Maiyu-107_dew-1,,Maiyu,107_dew,gas’iʲa,gas’iʲa,,,Bremer2016,,,ጤዛ
+Fadashi-107_dew-1,,Fadashi,107_dew,gas’ia,gas’ia,,,Bremer2016,,,ጤዛ
+Undulu-107_dew-1,,Undulu,107_dew,gas’ia,gas’ia,,,Bremer2016,,,ጤዛ
+BelejeGonfoye-107_dew-1,,BelejeGonfoye,107_dew,k’ɛtʃ’iʲa,k’ɛtʃ’iʲa,,,Bremer2016,,,ጤዛ
+Maiyu-108_greetvisit-1,,Maiyu,108_greetvisit,geːra,geːra,,,Bremer2016,,,ሰላም አለ
+Fadashi-108_greetvisit-1,,Fadashi,108_greetvisit,gɛːra,gɛːra,,,Bremer2016,,,ሰላም አለ
+Undulu-108_greetvisit-1,,Undulu,108_greetvisit,gɛːré,gɛːré,,,Bremer2016,,,ሰላም አለ
+BelejeGonfoye-108_greetvisit-1,,BelejeGonfoye,108_greetvisit,gera,gera,,,Bremer2016,,,ሰላም አለ
+Maiyu-109_oneday-1,,Maiyu,109_oneday,jom,jom,,,Bremer2016,,,
+Fadashi-109_oneday-1,,Fadashi,109_oneday,muːzeju manenku,muːzeju manenku,,,Bremer2016,,,
+Undulu-109_oneday-1,,Undulu,109_oneday,munzóː munenko,munzóː munenko,,,Bremer2016,,,
+BelejeGonfoye-109_oneday-1,,BelejeGonfoye,109_oneday,le mʷoɲʃo,le mʷoɲʃo,,,Bremer2016,,,
+Maiyu-110_or-1,,Maiyu,110_or,wɛlːa,wɛlːa,,,Bremer2016,,,ወይም
+Fadashi-110_or-1,,Fadashi,110_or,wɛ́lːa,wɛ́lːa,,,Bremer2016,,,ወይም
+Undulu-110_or-1,,Undulu,110_or,wɛ́lːa,wɛ́lːa,,,Bremer2016,,,ወይም
+BelejeGonfoye-110_or-1,,BelejeGonfoye,110_or,mbeːʔe,mbeːʔe,,,Bremer2016,,,ወይም
+Maiyu-111_fish-1,,Maiyu,111_fish,yəguθ,yəguθ,,,Bremer2016,,,አሳ
+Fadashi-111_fish-1,,Fadashi,111_fish,nɛgú,nɛgú,,,Bremer2016,,,አሳ
+Undulu-111_fish-1,,Undulu,111_fish,aːmondín,aːmondín,,,Bremer2016,,,አሳ
+BelejeGonfoye-111_fish-1,,BelejeGonfoye,111_fish,nəgu,nəgu,,,Bremer2016,,,አሳ
+Maiyu-112_riddle-1,,Maiyu,112_riddle,dʒín daːlíʲa,dʒín daːlíʲa,,,Bremer2016,,,እንቆቅልሽ
+Fadashi-112_riddle-1,,Fadashi,112_riddle,gíndaːlía,gíndaːlía,,,Bremer2016,,,እንቆቅልሽ
+Undulu-112_riddle-1,,Undulu,112_riddle,gíndaalía,gíndaalía,,,Bremer2016,,,እንቆቅልሽ
+BelejeGonfoye-112_riddle-1,,BelejeGonfoye,112_riddle,aːoːɾi,aːoːɾi,,,Bremer2016,,,እንቆቅልሽ
+Maiyu-113_problemdisturbance-1,,Maiyu,113_problemdisturbance,"dʒín húshi, rɔθa siː",dʒín húshi,,,Bremer2016,,,ችግር
+Maiyu-113_problemdisturbance-2,,Maiyu,113_problemdisturbance,"dʒín húshi, rɔθa siː",rɔθa siː,,,Bremer2016,,,ችግር
+Fadashi-113_problemdisturbance-1,,Fadashi,113_problemdisturbance,rora síʔí,rora síʔí,,,Bremer2016,,,ችግር
+Undulu-113_problemdisturbance-1,,Undulu,113_problemdisturbance,θora síʔí,θora síʔí,,,Bremer2016,,,ችግር
+BelejeGonfoye-113_problemdisturbance-1,,BelejeGonfoye,113_problemdisturbance,sɛɾi,sɛɾi,,,Bremer2016,,,ችግር
+Maiyu-114_smalllittle-1,,Maiyu,114_smalllittle,k’ɔs’í,k’ɔs’í,,,Bremer2016,,,ትንሽ
+Fadashi-114_smalllittle-1,,Fadashi,114_smalllittle,"nengwalé, k’osí",nengwalé,,,Bremer2016,,,ትንሽ
+Fadashi-114_smalllittle-2,,Fadashi,114_smalllittle,"nengwalé, k’osí",k’osí,,,Bremer2016,,,ትንሽ
+Undulu-114_smalllittle-1,,Undulu,114_smalllittle,gwa léːʃo,gwa léːʃo,,,Bremer2016,,,ትንሽ
+BelejeGonfoye-114_smalllittle-1,,BelejeGonfoye,114_smalllittle,bɛbilolo,bɛbilolo,,,Bremer2016,,,ትንሽ
+Maiyu-115_spineback-1,,Maiyu,115_spineback,gʊndi,gʊndi,,,Bremer2016,,,ጀራባ፣አከርካሪ
+Fadashi-115_spineback-1,,Fadashi,115_spineback,gundi,gundi,,,Bremer2016,,,ጀራባ፣አከርካሪ
+Undulu-115_spineback-1,,Undulu,115_spineback,guːndó,guːndó,,,Bremer2016,,,ጀራባ፣አከርካሪ
+BelejeGonfoye-115_spineback-1,,BelejeGonfoye,115_spineback,gundi,gundi,,,Bremer2016,,,ጀራባ፣አከርካሪ
+Maiyu-116_behindinthebackof-1,,Maiyu,116_behindinthebackof,ma gundi,ma gundi,,,Bremer2016,,,ከጀርባ፣ከኋላ
+Fadashi-116_behindinthebackof-1,,Fadashi,116_behindinthebackof,ma gundi,ma gundi,,,Bremer2016,,,ከጀርባ፣ከኋላ
+Undulu-116_behindinthebackof-1,,Undulu,116_behindinthebackof,gundi,gundi,,,Bremer2016,,,ከጀርባ፣ከኋላ
+BelejeGonfoye-116_behindinthebackof-1,,BelejeGonfoye,116_behindinthebackof,ma gundu,ma gundu,,,Bremer2016,,,ከጀርባ፣ከኋላ
+Maiyu-117_tail-1,,Maiyu,117_tail,abaro,abaro,,,Bremer2016,,,ጅራት
+Fadashi-117_tail-1,,Fadashi,117_tail,abɛre,abɛre,,,Bremer2016,,,ጅራት
+Undulu-117_tail-1,,Undulu,117_tail,abɛre,abɛre,,,Bremer2016,,,ጅራት
+BelejeGonfoye-117_tail-1,,BelejeGonfoye,117_tail,abare,abare,,,Bremer2016,,,ጅራት
+Maiyu-118_shepherd-1,,Maiyu,118_shepherd,haːʃi,haːʃi,,,Bremer2016,,,እረኛ
+Fadashi-118_shepherd-1,,Fadashi,118_shepherd,haːʃe,haːʃe,,,Bremer2016,,,እረኛ
+Undulu-118_shepherd-1,,Undulu,118_shepherd,həːnʃe,həːnʃe,,,Bremer2016,,,እረኛ
+BelejeGonfoye-118_shepherd-1,,BelejeGonfoye,118_shepherd,haːse,haːse,,,Bremer2016,,,እረኛ
+Maiyu-119_tree-1,,Maiyu,119_tree,s’ɪs’íʲa,s’ɪs’íʲa,,,Bremer2016,,,ዛፍ
+Fadashi-119_tree-1,,Fadashi,119_tree,ɪŋgolé,ɪŋgolé,,,Bremer2016,,,ዛፍ
+Undulu-119_tree-1,,Undulu,119_tree,oŋgolé,oŋgolé,,,Bremer2016,,,ዛፍ
+BelejeGonfoye-119_tree-1,,BelejeGonfoye,119_tree,ɪŋgóle,ɪŋgóle,,,Bremer2016,,,ዛፍ
+Maiyu-120_wood-1,,Maiyu,120_wood,s’ɪs’iʲa hɔʃɛli,s’ɪs’iʲa hɔʃɛli,,,Bremer2016,,,እንጨት
+Fadashi-120_wood-1,,Fadashi,120_wood,ɪŋgolé holɛfa,ɪŋgolé holɛfa,,,Bremer2016,,,እንጨት
+Undulu-120_wood-1,,Undulu,120_wood,oŋgolé hoʃɛle,oŋgolé hoʃɛle,,,Bremer2016,,,እንጨት
+BelejeGonfoye-120_wood-1,,BelejeGonfoye,120_wood,ɪŋgóle hosale,ɪŋgóle hosale,,,Bremer2016,,,እንጨት
+Maiyu-121_mourncry-1,,Maiyu,121_mourncry,"hɔna, biːʲe",hɔna,,,Bremer2016,,,አለቀሰ
+Maiyu-121_mourncry-2,,Maiyu,121_mourncry,"hɔna, biːʲe",biːʲe,,,Bremer2016,,,አለቀሰ
+Fadashi-121_mourncry-1,,Fadashi,121_mourncry,ɓaːʲe,ɓaːʲe,,,Bremer2016,,,አለቀሰ
+Undulu-121_mourncry-1,,Undulu,121_mourncry,biːʲe,biːʲe,,,Bremer2016,,,አለቀሰ
+BelejeGonfoye-121_mourncry-1,,BelejeGonfoye,121_mourncry,biːʲe,biːʲe,,,Bremer2016,,,አለቀሰ
+Maiyu-122_bedry-1,,Maiyu,122_bedry,hɔʃəla,hɔʃəla,,,Bremer2016,,,ደረቀ
+Fadashi-122_bedry-1,,Fadashi,122_bedry,hoʃɛle,hoʃɛle,,,Bremer2016,,,ደረቀ
+Undulu-122_bedry-1,,Undulu,122_bedry,hoʃala,hoʃala,,,Bremer2016,,,ደረቀ
+BelejeGonfoye-122_bedry-1,,BelejeGonfoye,122_bedry,hosalé,hosalé,,,Bremer2016,,,ደረቀ
+Maiyu-123_egg-1,,Maiyu,123_egg,húhúlú,húhúlú,,,Bremer2016,,,እንቁላል
+Fadashi-123_egg-1,,Fadashi,123_egg,hólú,hólú,,,Bremer2016,,,እንቁላል
+Undulu-123_egg-1,,Undulu,123_egg,hóːhólú,hóːhólú,,,Bremer2016,,,እንቁላል
+BelejeGonfoye-123_egg-1,,BelejeGonfoye,123_egg,hoːholo,hoːholo,,,Bremer2016,,,እንቁላል
+Maiyu-124_moon-1,,Maiyu,124_moon,sɪgi,sɪgi,,,Bremer2016,,,
+Fadashi-124_moon-1,,Fadashi,124_moon,sigi,sigi,,,Bremer2016,,,
+Undulu-124_moon-1,,Undulu,124_moon,zigi,zigi,,,Bremer2016,,,
+BelejeGonfoye-124_moon-1,,BelejeGonfoye,124_moon,dʒigi,dʒigi,,,Bremer2016,,,
+Maiyu-125_play-1,,Maiyu,125_play,íːla,íːla,,,Bremer2016,,,ተጫወተ
+Fadashi-125_play-1,,Fadashi,125_play,iʔile,iʔile,,,Bremer2016,,,ተጫወተ
+Undulu-125_play-1,,Undulu,125_play,ííla,ííla,,,Bremer2016,,,ተጫወተ
+BelejeGonfoye-125_play-1,,BelejeGonfoye,125_play,iːle,iːle,,,Bremer2016,,,ተጫወተ
+Maiyu-126_star-1,,Maiyu,126_star,íís’u,íís’u,,,Bremer2016,,,ኮከብ
+Fadashi-126_star-1,,Fadashi,126_star,íːs’u,íːs’u,,,Bremer2016,,,ኮከብ
+Undulu-126_star-1,,Undulu,126_star,íːs’u,íːs’u,,,Bremer2016,,,ኮከብ
+BelejeGonfoye-126_star-1,,BelejeGonfoye,126_star,bəruru,bəruru,,,Bremer2016,,,ኮከብ
+Maiyu-127_week-1,,Maiyu,127_week,ɪzbu,ɪzbu,,,Bremer2016,,,ሳምንት
+Fadashi-127_week-1,,Fadashi,127_week,ador,ador,,,Bremer2016,,,ሳምንት
+Undulu-127_week-1,,Undulu,127_week,θabaholeyu minːegu,θabaholeyu minːegu,,,Bremer2016,,,ሳምንት
+BelejeGonfoye-127_week-1,,BelejeGonfoye,127_week,uːwé dunk’u,uːwé dunk’u,,,Bremer2016,,,ሳምንት
+Maiyu-128_alwaysdaily-1,,Maiyu,128_alwaysdaily,mufaiʲo tʃ’ílːíŋ,mufaiʲo tʃ’ílːíŋ,,,Bremer2016,,,ቀን በ ቀን
+Fadashi-128_alwaysdaily-1,,Fadashi,128_alwaysdaily,muje muje,muje muje,,,Bremer2016,,,ቀን በ ቀን
+BelejeGonfoye-128_alwaysdaily-1,,BelejeGonfoye,128_alwaysdaily,li mundʒu li mundʒu,li mundʒu li mundʒu,,,Bremer2016,,,ቀን በ ቀን
+Maiyu-129_blood-1,,Maiyu,129_blood,k’áfa,k’áfa,,,Bremer2016,,,ደም
+Fadashi-129_blood-1,,Fadashi,129_blood,k’afa,k’afa,,,Bremer2016,,,ደም
+Undulu-129_blood-1,,Undulu,129_blood,k’áfaŋ,k’áfaŋ,,,Bremer2016,,,ደም
+BelejeGonfoye-129_blood-1,,BelejeGonfoye,129_blood,k’awa,k’awa,,,Bremer2016,,,ደም
+Maiyu-130_bebitter-1,,Maiyu,130_bebitter,k’əs’í,k’əs’í,,,Bremer2016,,,መራራ
+Fadashi-130_bebitter-1,,Fadashi,130_bebitter,k’as’i,k’as’i,,,Bremer2016,,,መራራ
+BelejeGonfoye-130_bebitter-1,,BelejeGonfoye,130_bebitter,bɛ k’adʒi,bɛ k’adʒi,,,Bremer2016,,,መራራ
+Maiyu-131_laugh-1,,Maiyu,131_laugh,k’ééda,k’ééda,,,Bremer2016,,,ሳቀ
+Fadashi-131_laugh-1,,Fadashi,131_laugh,keːde,keːde,,,Bremer2016,,,ሳቀ
+Undulu-131_laugh-1,,Undulu,131_laugh,͡tʃɛ́ːdi,͡tʃɛ́ːdi,,,Bremer2016,,,ሳቀ
+BelejeGonfoye-131_laugh-1,,BelejeGonfoye,131_laugh,k’eːte,k’eːte,,,Bremer2016,,,ሳቀ
+Maiyu-132_eatchewmeat-1,,Maiyu,132_eatchewmeat,k’ɔ́la,k’ɔ́la,,,Bremer2016,,,በላ
+Fadashi-132_eatchewmeat-1,,Fadashi,132_eatchewmeat,k’ola,k’ola,,,Bremer2016,,,በላ
+Undulu-132_eatchewmeat-1,,Undulu,132_eatchewmeat,k’óla,k’óla,,,Bremer2016,,,በላ
+BelejeGonfoye-132_eatchewmeat-1,,BelejeGonfoye,132_eatchewmeat,k’ola,k’ola,,,Bremer2016,,,በላ
+Maiyu-133_whistle-1,,Maiyu,133_whistle,fens’iŋa,fens’iŋa,,,Bremer2016,,,አፏጨ
+Fadashi-133_whistle-1,,Fadashi,133_whistle,fɛnsiŋa,fɛnsiŋa,,,Bremer2016,,,አፏጨ
+Undulu-133_whistle-1,,Undulu,133_whistle,fɛnteŋí,fɛnteŋí,,,Bremer2016,,,አፏጨ
+BelejeGonfoye-133_whistle-1,,BelejeGonfoye,133_whistle,wɛnteɲe,wɛnteɲe,,,Bremer2016,,,አፏጨ
+Maiyu-134_dream-1,,Maiyu,134_dream,féʃa,féʃa,,,Bremer2016,,,አለመ
+Fadashi-134_dream-1,,Fadashi,134_dream,are feːsi,are feːsi,,,Bremer2016,,,አለመ
+Undulu-134_dream-1,,Undulu,134_dream,fɛ́ʃi,fɛ́ʃi,,,Bremer2016,,,አለመ
+BelejeGonfoye-134_dream-1,,BelejeGonfoye,134_dream,ar͡ai uwesi,ar͡ai uwesi,,,Bremer2016,,,አለመ
+Maiyu-135_village-1,,Maiyu,135_village,láŋk’a,láŋk’a,,,Bremer2016,,,መንደር
+Fadashi-135_village-1,,Fadashi,135_village,adar,adar,,,Bremer2016,,,መንደር
+Undulu-135_village-1,,Undulu,135_village,héːsa,héːsa,,,Bremer2016,,,መንደር
+BelejeGonfoye-135_village-1,,BelejeGonfoye,135_village,aɲi ŋoluwɛleya,aɲi ŋoluwɛleya,,,Bremer2016,,,መንደር
+Maiyu-136_person-1,,Maiyu,136_person,maːbə,maːbə,,,Bremer2016,,,ሰው
+Fadashi-136_person-1,,Fadashi,136_person,ndə mili,ndə mili,,,Bremer2016,,,ሰው
+Undulu-136_person-1,,Undulu,136_person,ndə míli,ndə míli,,,Bremer2016,,,ሰው
+BelejeGonfoye-136_person-1,,BelejeGonfoye,136_person,ndə mili,ndə mili,,,Bremer2016,,,ሰው
+Maiyu-137_darkyellow-1,,Maiyu,137_darkyellow,mə gaːʃá,mə gaːʃá,,,Bremer2016,,,ቢጫ
+Fadashi-137_darkyellow-1,,Fadashi,137_darkyellow,ma gaːʃá,ma gaːʃá,,,Bremer2016,,,ቢጫ
+Undulu-137_darkyellow-1,,Undulu,137_darkyellow,ma gaːʃá,ma gaːʃá,,,Bremer2016,,,ቢጫ
+BelejeGonfoye-137_darkyellow-1,,BelejeGonfoye,137_darkyellow,bɛ ɪdʒɪgɛri,bɛ ɪdʒɪgɛri,,,Bremer2016,,,ቢጫ
+Maiyu-138_sleepv-1,,Maiyu,138_sleepv,dírʃa,dírʃa,,,Bremer2016,,,ተኛ
+Fadashi-138_sleepv-1,,Fadashi,138_sleepv,tirʃa,tirʃa,,,Bremer2016,,,ተኛ
+Undulu-138_sleepv-1,,Undulu,138_sleepv,θə́rʃa,θə́rʃa,,,Bremer2016,,,ተኛ
+BelejeGonfoye-138_sleepv-1,,BelejeGonfoye,138_sleepv,ɗiŋa,ɗiŋa,,,Bremer2016,,,ተኛ
+Maiyu-139_clawfingernail-1,,Maiyu,139_clawfingernail,máːshũ,máːshũ,,,Bremer2016,,,ጥፍር
+Fadashi-139_clawfingernail-1,,Fadashi,139_clawfingernail,maːʃó,maːʃó,,,Bremer2016,,,ጥፍር
+Undulu-139_clawfingernail-1,,Undulu,139_clawfingernail,mə́nʃó,mə́nʃó,,,Bremer2016,,,ጥፍር
+BelejeGonfoye-139_clawfingernail-1,,BelejeGonfoye,139_clawfingernail,maːsiːso,maːsiːso,,,Bremer2016,,,ጥፍር
+Maiyu-140_gift-1,,Maiyu,140_gift,daːdó,daːdó,,,Bremer2016,,,ስጦታ
+Fadashi-140_gift-1,,Fadashi,140_gift,ndaline,ndaline,,,Bremer2016,,,ስጦታ
+Undulu-140_gift-1,,Undulu,140_gift,ndɪdíŋ,ndɪdíŋ,,,Bremer2016,,,ስጦታ
+BelejeGonfoye-140_gift-1,,BelejeGonfoye,140_gift,gɪmbɛnduʷa,gɪmbɛnduʷa,,,Bremer2016,,,ስጦታ
+Maiyu-141_ours-1,,Maiyu,141_ours,mánk’a,mánk’a,,,Bremer2016,,,የእኛ
+Fadashi-141_ours-1,,Fadashi,141_ours,mːanka,mːanka,,,Bremer2016,,,የእኛ
+BelejeGonfoye-141_ours-1,,BelejeGonfoye,141_ours,maŋka,maŋka,,,Bremer2016,,,የእኛ
+Maiyu-142_mine-1,,Maiyu,142_mine,mánk’o,mánk’o,,,Bremer2016,,,የእኔ
+Fadashi-142_mine-1,,Fadashi,142_mine,mːanko,mːanko,,,Bremer2016,,,የእኔ
+BelejeGonfoye-142_mine-1,,BelejeGonfoye,142_mine,manko,manko,,,Bremer2016,,,የእኔ
+Maiyu-143_yourssg-1,,Maiyu,143_yourssg,mbáʔa,mbáʔa,,,Bremer2016,,,የአንተ
+Fadashi-143_yourssg-1,,Fadashi,143_yourssg,mbaʔa,mbaʔa,,,Bremer2016,,,የአንተ
+BelejeGonfoye-143_yourssg-1,,BelejeGonfoye,143_yourssg,mːbáʔa,mːbáʔa,,,Bremer2016,,,የአንተ
+Maiyu-144_lockn-1,,Maiyu,144_lockn,mulhí handuŋú,mulhí handuŋú,,,Bremer2016,,,ሰረገላ ቁልፍ
+Fadashi-144_lockn-1,,Fadashi,144_lockn,mulhí handuŋú,mulhí handuŋú,,,Bremer2016,,,ሰረገላ ቁልፍ
+Undulu-144_lockn-1,,Undulu,144_lockn,mulhí handuŋú,mulhí handuŋú,,,Bremer2016,,,ሰረገላ ቁልፍ
+BelejeGonfoye-144_lockn-1,,BelejeGonfoye,144_lockn,mui handu ɲolo,mui handu ɲolo,,,Bremer2016,,,ሰረገላ ቁልፍ
+Maiyu-145_sun-1,,Maiyu,145_sun,munsú,munsú,,,Bremer2016,,,ፀሀይ
+Fadashi-145_sun-1,,Fadashi,145_sun,moːs’ó,moːs’ó,,,Bremer2016,,,ፀሀይ
+Undulu-145_sun-1,,Undulu,145_sun,munzú,munzú,,,Bremer2016,,,ፀሀይ
+BelejeGonfoye-145_sun-1,,BelejeGonfoye,145_sun,muɲdʒo,muɲdʒo,,,Bremer2016,,,ፀሀይ
+Maiyu-146_diev-1,,Maiyu,146_diev,múʃa,múʃa,,,Bremer2016,,,ሞተ
+Fadashi-146_diev-1,,Fadashi,146_diev,múʃé,múʃé,,,Bremer2016,,,ሞተ
+Undulu-146_diev-1,,Undulu,146_diev,jěː,jěː,,,Bremer2016,,,ሞተ
+BelejeGonfoye-146_diev-1,,BelejeGonfoye,146_diev,muːʃe,muːʃe,,,Bremer2016,,,ሞተ
+Maiyu-147_why-1,,Maiyu,147_why,náːnói,náːnói,,,Bremer2016,,,ለምን?
+Fadashi-147_why-1,,Fadashi,147_why,mbóléjá,mbóléjá,,,Bremer2016,,,ለምን?
+Undulu-147_why-1,,Undulu,147_why,náːnúʔa,náːnúʔa,,,Bremer2016,,,ለምን?
+BelejeGonfoye-147_why-1,,BelejeGonfoye,147_why,mboleʔiʲa,mboleʔiʲa,,,Bremer2016,,,ለምን?
+Maiyu-148_bepregnant-1,,Maiyu,148_bepregnant,ɔlgɪɲi,ɔlgɪɲi,,,Bremer2016,,,እርጉዝ
+Fadashi-148_bepregnant-1,,Fadashi,148_bepregnant,olgiŋi,olgiŋi,,,Bremer2016,,,እርጉዝ
+Undulu-148_bepregnant-1,,Undulu,148_bepregnant,wol͡dʒiŋʔi,wol͡dʒiŋʔi,,,Bremer2016,,,እርጉዝ
+BelejeGonfoye-148_bepregnant-1,,BelejeGonfoye,148_bepregnant,olgɪne,olgɪne,,,Bremer2016,,,እርጉዝ
+Maiyu-149_bleed-1,,Maiyu,149_bleed,ɓuda,ɓuda,,,Bremer2016,,,ደማ
+Undulu-149_bleed-1,,Undulu,149_bleed,ɓuɗí,ɓuɗí,,,Bremer2016,,,ደማ
+BelejeGonfoye-149_bleed-1,,BelejeGonfoye,149_bleed,ɓuːɗe,ɓuːɗe,,,Bremer2016,,,ደማ
+Maiyu-150_clothclothes-1,,Maiyu,150_clothclothes,ɔr,ɔr,,,Bremer2016,,,ልብስ
+Fadashi-150_clothclothes-1,,Fadashi,150_clothclothes,or,or,,,Bremer2016,,,ልብስ
+Undulu-150_clothclothes-1,,Undulu,150_clothclothes,or,or,,,Bremer2016,,,ልብስ
+BelejeGonfoye-150_clothclothes-1,,BelejeGonfoye,150_clothclothes,oɾi,oɾi,,,Bremer2016,,,ልብስ
+Maiyu-151_toplayaninstrument-1,,Maiyu,151_toplayaninstrument,béː,béː,,,Bremer2016,,,
+Undulu-151_toplayaninstrument-1,,Undulu,151_toplayaninstrument,béː,béː,,,Bremer2016,,,
+BelejeGonfoye-151_toplayaninstrument-1,,BelejeGonfoye,151_toplayaninstrument,beː,beː,,,Bremer2016,,,
+Maiyu-152_earlyinthemorning-1,,Maiyu,152_earlyinthemorning,adːʊk’ʊʃ,adːʊk’ʊʃ,,,Bremer2016,,,ማለዳ፣ጠዋት
+Fadashi-152_earlyinthemorning-1,,Fadashi,152_earlyinthemorning,meneɗɛʃimːbe,meneɗɛʃimːbe,,,Bremer2016,,,ማለዳ፣ጠዋት
+Undulu-152_earlyinthemorning-1,,Undulu,152_earlyinthemorning,mɛn ɗɛ́ʃí,mɛn ɗɛ́ʃí,,,Bremer2016,,,ማለዳ፣ጠዋት
+BelejeGonfoye-152_earlyinthemorning-1,,BelejeGonfoye,152_earlyinthemorning,maːbus,maːbus,,,Bremer2016,,,ማለዳ፣ጠዋት
+Maiyu-153_trumpet-1,,Maiyu,153_trumpet,awaza,awaza,,,Bremer2016,,,
+Fadashi-153_trumpet-1,,Fadashi,153_trumpet,wáːsa,wáːsa,,,Bremer2016,,,
+Undulu-153_trumpet-1,,Undulu,153_trumpet,wáːsa,wáːsa,,,Bremer2016,,,
+Maiyu-154_betrue-1,,Maiyu,154_betrue,asːé,asːé,,,Bremer2016,,,እውነት
+Fadashi-154_betrue-1,,Fadashi,154_betrue,asːé,asːé,,,Bremer2016,,,እውነት
+Undulu-154_betrue-1,,Undulu,154_betrue,goːɗi,goːɗi,,,Bremer2016,,,እውነት
+BelejeGonfoye-154_betrue-1,,BelejeGonfoye,154_betrue,tɛn:te,tɛn:te,,,Bremer2016,,,እውነት
+Maiyu-155_scratchscrapeoff-1,,Maiyu,155_scratchscrapeoff,"p’eːra, kɔŋkɔne",p’eːra,,,Bremer2016,,,ጫረ
+Maiyu-155_scratchscrapeoff-2,,Maiyu,155_scratchscrapeoff,"p’eːra, kɔŋkɔne",kɔŋkɔne,,,Bremer2016,,,ጫረ
+Fadashi-155_scratchscrapeoff-1,,Fadashi,155_scratchscrapeoff,k’oŋkoni,k’oŋkoni,,,Bremer2016,,,ጫረ
+Undulu-155_scratchscrapeoff-1,,Undulu,155_scratchscrapeoff,ɓeːra,ɓeːra,,,Bremer2016,,,ጫረ
+BelejeGonfoye-155_scratchscrapeoff-1,,BelejeGonfoye,155_scratchscrapeoff,k’okone,k’okone,,,Bremer2016,,,ጫረ
+Maiyu-156_dig-1,,Maiyu,156_dig,fʊda,fʊda,,,Bremer2016,,,ቆፈረ (ለእንስሳት)
+Fadashi-156_dig-1,,Fadashi,156_dig,hoːɗa,hoːɗa,,,Bremer2016,,,ቆፈረ (ለእንስሳት)
+BelejeGonfoye-156_dig-1,,BelejeGonfoye,156_dig,baːla,baːla,,,Bremer2016,,,ቆፈረ (ለእንስሳት)
+Maiyu-157_bread-1,,Maiyu,157_bread,p’ɪmːp’íl,p’ɪmːp’íl,,,Bremer2016,,,ዳቦ
+Fadashi-157_bread-1,,Fadashi,157_bread,ɓɛmbɛl,ɓɛmbɛl,,,Bremer2016,,,ዳቦ
+Undulu-157_bread-1,,Undulu,157_bread,ɓɪmɓɪl,ɓɪmɓɪl,,,Bremer2016,,,ዳቦ
+BelejeGonfoye-157_bread-1,,BelejeGonfoye,157_bread,bɪmːbil,bɪmːbil,,,Bremer2016,,,ዳቦ
+Maiyu-158_trousers-1,,Maiyu,158_trousers,asʊrwâl,asʊrwâl,,,Bremer2016,,,ሱሪ
+Fadashi-158_trousers-1,,Fadashi,158_trousers,asːurwal,asːurwal,,,Bremer2016,,,ሱሪ
+Undulu-158_trousers-1,,Undulu,158_trousers,aʃoŋːhár,aʃoŋːhár,,,Bremer2016,,,ሱሪ
+BelejeGonfoye-158_trousers-1,,BelejeGonfoye,158_trousers,asurani,asurani,,,Bremer2016,,,ሱሪ
+Maiyu-159_guest-1,,Maiyu,159_guest,as’ís’i,as’ís’i,,,Bremer2016,,,እንግዳ
+Fadashi-159_guest-1,,Fadashi,159_guest,as’is’i,as’is’i,,,Bremer2016,,,እንግዳ
+Undulu-159_guest-1,,Undulu,159_guest,as’ís’i,as’ís’i,,,Bremer2016,,,እንግዳ
+BelejeGonfoye-159_guest-1,,BelejeGonfoye,159_guest,as’is’e,as’is’e,,,Bremer2016,,,እንግዳ
+Maiyu-160_bertaknife-1,,Maiyu,160_bertaknife,handʒir,handʒir,,,Bremer2016,,,
+Fadashi-160_bertaknife-1,,Fadashi,160_bertaknife,haɳ͡ dʒir,haɳ͡ dʒir,,,Bremer2016,,,
+Undulu-160_bertaknife-1,,Undulu,160_bertaknife,haŋːhir,haŋːhir,,,Bremer2016,,,
+BelejeGonfoye-160_bertaknife-1,,BelejeGonfoye,160_bertaknife,haɲgɪri,haɲgɪri,,,Bremer2016,,,
+Maiyu-161_net-1,,Maiyu,161_net,aʃɛ́bəka,aʃɛ́bəka,,,Bremer2016,,,መረብ
+Fadashi-161_net-1,,Fadashi,161_net,ʃiŋí,ʃiŋí,,,Bremer2016,,,መረብ
+Undulu-161_net-1,,Undulu,161_net,ʃíːle,ʃíːle,,,Bremer2016,,,መረብ
+BelejeGonfoye-161_net-1,,BelejeGonfoye,161_net,deŋi nəguŋu,deŋi nəguŋu,,,Bremer2016,,,መረብ
+Maiyu-162_rain-1,,Maiyu,162_rain,rɔ,rɔ,,,Bremer2016,,,ዝናብ
+Fadashi-162_rain-1,,Fadashi,162_rain,rô,rô,,,Bremer2016,,,ዝናብ
+Undulu-162_rain-1,,Undulu,162_rain,rô,rô,,,Bremer2016,,,ዝናብ
+BelejeGonfoye-162_rain-1,,BelejeGonfoye,162_rain,rô,rô,,,Bremer2016,,,ዝናብ
+Maiyu-163_year-1,,Maiyu,163_year,rɔ́ːndu,rɔ́ːndu,,,Bremer2016,,,አመት
+Fadashi-163_year-1,,Fadashi,163_year,róóndu,róóndu,,,Bremer2016,,,አመት
+Undulu-163_year-1,,Undulu,163_year,róːndu,róːndu,,,Bremer2016,,,አመት
+BelejeGonfoye-163_year-1,,BelejeGonfoye,163_year,roŋoloʔur,roŋoloʔur,,,Bremer2016,,,አመት
+Maiyu-164_time-1,,Maiyu,164_time,áːŋ,áːŋ,,,Bremer2016,,,ጊዜ
+Fadashi-164_time-1,,Fadashi,164_time,áŋ moːso,áŋ moːso,,,Bremer2016,,,ጊዜ
+Undulu-164_time-1,,Undulu,164_time,asːat,asːat,,,Bremer2016,,,ጊዜ
+BelejeGonfoye-164_time-1,,BelejeGonfoye,164_time,təkolal,təkolal,,,Bremer2016,,,ጊዜ
+Maiyu-165_smelltransv-1,,Maiyu,165_smelltransv,áŋɔna,áŋɔna,,,Bremer2016,,,አሸተተ
+Fadashi-165_smelltransv-1,,Fadashi,165_smelltransv,aŋoní,aŋoní,,,Bremer2016,,,አሸተተ
+Undulu-165_smelltransv-1,,Undulu,165_smelltransv,aŋːoní,aŋːoní,,,Bremer2016,,,አሸተተ
+BelejeGonfoye-165_smelltransv-1,,BelejeGonfoye,165_smelltransv,aŋonɛne,aŋonɛne,,,Bremer2016,,,አሸተተ
+Maiyu-166_sharpen-1,,Maiyu,166_sharpen,áp’ila,áp’ila,,,Bremer2016,,,ሳለ (ለቢላ)
+Fadashi-166_sharpen-1,,Fadashi,166_sharpen,aːɓila,aːɓila,,,Bremer2016,,,ሳለ (ለቢላ)
+Undulu-166_sharpen-1,,Undulu,166_sharpen,aːɓila,aːɓila,,,Bremer2016,,,ሳለ (ለቢላ)
+BelejeGonfoye-166_sharpen-1,,BelejeGonfoye,166_sharpen,guʷane,guʷane,,,Bremer2016,,,ሳለ (ለቢላ)
+Maiyu-167_groundsoilearth-1,,Maiyu,167_groundsoilearth,s’ak’a,s’ak’a,,,Bremer2016,,,መሬት
+Fadashi-167_groundsoilearth-1,,Fadashi,167_groundsoilearth,s’ak’a,s’ak’a,,,Bremer2016,,,መሬት
+Undulu-167_groundsoilearth-1,,Undulu,167_groundsoilearth,s’ak’a,s’ak’a,,,Bremer2016,,,መሬት
+BelejeGonfoye-167_groundsoilearth-1,,BelejeGonfoye,167_groundsoilearth,tʃ’ɛka,tʃ’ɛka,,,Bremer2016,,,መሬት
+Maiyu-168_saddle-1,,Maiyu,168_saddle,amaɗí,amaɗí,,,Bremer2016,,,ኮሪቻ
+Fadashi-168_saddle-1,,Fadashi,168_saddle,amaɗé,amaɗé,,,Bremer2016,,,ኮሪቻ
+Undulu-168_saddle-1,,Undulu,168_saddle,amaɗé,amaɗé,,,Bremer2016,,,ኮሪቻ
+BelejeGonfoye-168_saddle-1,,BelejeGonfoye,168_saddle,aːmele,aːmele,,,Bremer2016,,,ኮሪቻ
+Maiyu-169_beads-1,,Maiyu,169_beads,amanzi,amanzi,,,Bremer2016,,,ጨሌ
+Fadashi-169_beads-1,,Fadashi,169_beads,amanzi,amanzi,,,Bremer2016,,,ጨሌ
+Undulu-169_beads-1,,Undulu,169_beads,amanzi,amanzi,,,Bremer2016,,,ጨሌ
+BelejeGonfoye-169_beads-1,,BelejeGonfoye,169_beads,aʔmɛndʒi,aʔmɛndʒi,,,Bremer2016,,,ጨሌ
+Maiyu-170_rat-1,,Maiyu,170_rat,amasíɲ,amasíɲ,,,Bremer2016,,,አይጥ
+Fadashi-170_rat-1,,Fadashi,170_rat,amaziɲ,amaziɲ,,,Bremer2016,,,አይጥ
+Undulu-170_rat-1,,Undulu,170_rat,amazí,amazí,,,Bremer2016,,,አይጥ
+BelejeGonfoye-170_rat-1,,BelejeGonfoye,170_rat,aʔmadʒi,aʔmadʒi,,,Bremer2016,,,አይጥ
+Maiyu-171_dust-1,,Maiyu,171_dust,ambʊdúr,ambʊdúr,,,Bremer2016,,,ኣቧራ
+Fadashi-171_dust-1,,Fadashi,171_dust,amburu,amburu,,,Bremer2016,,,ኣቧራ
+Undulu-171_dust-1,,Undulu,171_dust,hohuθa,hohuθa,,,Bremer2016,,,ኣቧራ
+BelejeGonfoye-171_dust-1,,BelejeGonfoye,171_dust,ambuduɾo,ambuduɾo,,,Bremer2016,,,ኣቧራ
+Maiyu-172_darkness-1,,Maiyu,172_darkness,amilo,amilo,,,Bremer2016,,,ጨለማ
+Fadashi-172_darkness-1,,Fadashi,172_darkness,amiluʔa,amiluʔa,,,Bremer2016,,,ጨለማ
+Undulu-172_darkness-1,,Undulu,172_darkness,amiluʔi,amiluʔi,,,Bremer2016,,,ጨለማ
+BelejeGonfoye-172_darkness-1,,BelejeGonfoye,172_darkness,aɲi miloʔi,aɲi miloʔi,,,Bremer2016,,,ጨለማ
+Maiyu-173_sand-1,,Maiyu,173_sand,ʃéːk’e,ʃéːk’e,,,Bremer2016,,,አሸዋ
+Fadashi-173_sand-1,,Fadashi,173_sand,ʃéːk’e,ʃéːk’e,,,Bremer2016,,,አሸዋ
+Undulu-173_sand-1,,Undulu,173_sand,ʃeːtʃ’e,ʃeːtʃ’e,,,Bremer2016,,,አሸዋ
+BelejeGonfoye-173_sand-1,,BelejeGonfoye,173_sand,asesɛke,asesɛke,,,Bremer2016,,,አሸዋ
+Maiyu-174_deaf-1,,Maiyu,174_deaf,ʃɛr íle,ʃɛr íle,,,Bremer2016,,,ደንቆሮ
+Fadashi-174_deaf-1,,Fadashi,174_deaf,máːla,máːla,,,Bremer2016,,,ደንቆሮ
+Undulu-174_deaf-1,,Undulu,174_deaf,sher íle,sher íle,,,Bremer2016,,,ደንቆሮ
+BelejeGonfoye-174_deaf-1,,BelejeGonfoye,174_deaf,mbəɲiro ilo,mbəɲiro ilo,,,Bremer2016,,,ደንቆሮ
+Maiyu-175_buy-1,,Maiyu,175_buy,ʃɪbila,ʃɪbila,,,Bremer2016,,,ገዛ
+Undulu-175_buy-1,,Undulu,175_buy,jéːla,jéːla,,,Bremer2016,,,ገዛ
+BelejeGonfoye-175_buy-1,,BelejeGonfoye,175_buy,eːlɛna,eːlɛna,,,Bremer2016,,,ገዛ
+Maiyu-176_chair-1,,Maiyu,176_chair,al kʊ́rsi,al kʊ́rsi,,,Bremer2016,,,ወምበር
+Fadashi-176_chair-1,,Fadashi,176_chair,ama:ɗé,ama:ɗé,,,Bremer2016,,,ወምበር
+Undulu-176_chair-1,,Undulu,176_chair,alkúrsi,alkúrsi,,,Bremer2016,,,ወምበር
+BelejeGonfoye-176_chair-1,,BelejeGonfoye,176_chair,adəŋo,adəŋo,,,Bremer2016,,,ወምበር
+Maiyu-177_restv-1,,Maiyu,177_restv,ʃɔ́ːra,ʃɔ́ːra,,,Bremer2016,,,አረፈ
+Fadashi-177_restv-1,,Fadashi,177_restv,ʃóːra,ʃóːra,,,Bremer2016,,,አረፈ
+Undulu-177_restv-1,,Undulu,177_restv,ʃóːra,ʃóːra,,,Bremer2016,,,አረፈ
+BelejeGonfoye-177_restv-1,,BelejeGonfoye,177_restv,soːre,soːre,,,Bremer2016,,,አረፈ
+Maiyu-178_hut-1,,Maiyu,178_hut,ʃúl ɲɛːra,ʃúl ɲɛːra,,,Bremer2016,,,ገጆ
+Fadashi-178_hut-1,,Fadashi,178_hut,ʃulgwaːlé,ʃulgwaːlé,,,Bremer2016,,,ገጆ
+Undulu-178_hut-1,,Undulu,178_hut,ʃúl ɲera,ʃúl ɲera,,,Bremer2016,,,ገጆ
+BelejeGonfoye-178_hut-1,,BelejeGonfoye,178_hut,sulɲero / sul gʷole,sulɲero,,,Bremer2016,,,ገጆ
+BelejeGonfoye-178_hut-2,,BelejeGonfoye,178_hut,sulɲero / sul gʷole,sul gʷole,,,Bremer2016,,,ገጆ
+Maiyu-179_cloud-1,,Maiyu,179_cloud,agúːru,agúːru,,,Bremer2016,,,ደመና
+Fadashi-179_cloud-1,,Fadashi,179_cloud,agúːru,agúːru,,,Bremer2016,,,ደመና
+Undulu-179_cloud-1,,Undulu,179_cloud,agúːru,agúːru,,,Bremer2016,,,ደመና
+BelejeGonfoye-179_cloud-1,,BelejeGonfoye,179_cloud,aguru,aguru,,,Bremer2016,,,ደመና
+Maiyu-180_friend-1,,Maiyu,180_friend,ahap’u,ahap’u,,,Bremer2016,,,ጓደኛ
+Fadashi-180_friend-1,,Fadashi,180_friend,haːɓu,haːɓu,,,Bremer2016,,,ጓደኛ
+Undulu-180_friend-1,,Undulu,180_friend,aːgúʃúŋ,aːgúʃúŋ,,,Bremer2016,,,ጓደኛ
+BelejeGonfoye-180_friend-1,,BelejeGonfoye,180_friend,age,age,,,Bremer2016,,,ጓደኛ
+Maiyu-181_totowards-1,,Maiyu,181_totowards,θá,θá,,,Bremer2016,,,ወደ
+Fadashi-181_totowards-1,,Fadashi,181_totowards,lɛ,lɛ,,,Bremer2016,,,ወደ
+Undulu-181_totowards-1,,Undulu,181_totowards,θɛwa,θɛwa,,,Bremer2016,,,ወደ
+BelejeGonfoye-181_totowards-1,,BelejeGonfoye,181_totowards,la,la,,,Bremer2016,,,ወደ
+Maiyu-182_here-1,,Maiyu,182_here,θɛ́lːé,θɛ́lːé,,,Bremer2016,,,እዚህ
+Fadashi-182_here-1,,Fadashi,182_here,θoːʔi / loːʔi,θoːʔi,,,Bremer2016,,,እዚህ
+Fadashi-182_here-2,,Fadashi,182_here,θoːʔi / loːʔi,loːʔi,,,Bremer2016,,,እዚህ
+Undulu-182_here-1,,Undulu,182_here,θoːʔiyu,θoːʔiyu,,,Bremer2016,,,እዚህ
+BelejeGonfoye-182_here-1,,BelejeGonfoye,182_here,loːle,loːle,,,Bremer2016,,,እዚህ
+Maiyu-183_medicine-1,,Maiyu,183_medicine,adːɛ́wa,adːɛ́wa,,,Bremer2016,,,መድሐኒት
+Fadashi-183_medicine-1,,Fadashi,183_medicine,s’is’ia?iɲ,s’is’ia?iɲ,,,Bremer2016,,,መድሐኒት
+Undulu-183_medicine-1,,Undulu,183_medicine,addáwa,addáwa,,,Bremer2016,,,መድሐኒት
+BelejeGonfoye-183_medicine-1,,BelejeGonfoye,183_medicine,hoːtʃo,hoːtʃo,,,Bremer2016,,,መድሐኒት
+Maiyu-184_stirringstickwhisk-1,,Maiyu,184_stirringstickwhisk,aɗaɗáfɛd,aɗaɗáfɛd,,,Bremer2016,,,ማማሰያ
+Fadashi-184_stirringstickwhisk-1,,Fadashi,184_stirringstickwhisk,ɗaɗafet,ɗaɗafet,,,Bremer2016,,,ማማሰያ
+Undulu-184_stirringstickwhisk-1,,Undulu,184_stirringstickwhisk,aɗanɗafet,aɗanɗafet,,,Bremer2016,,,ማማሰያ
+BelejeGonfoye-184_stirringstickwhisk-1,,BelejeGonfoye,184_stirringstickwhisk,mulaːʷo,mulaːʷo,,,Bremer2016,,,ማማሰያ
+Maiyu-185_forgivehavemercy-1,,Maiyu,185_forgivehavemercy,afiːŋa,afiːŋa,,,Bremer2016,,,ምህረት አደረገ፣ይቅር አለ
+Fadashi-185_forgivehavemercy-1,,Fadashi,185_forgivehavemercy,eʔafiːŋa,eʔafiːŋa,,,Bremer2016,,,ምህረት አደረገ፣ይቅር አለ
+Undulu-185_forgivehavemercy-1,,Undulu,185_forgivehavemercy,afiiña,afiiña,,,Bremer2016,,,ምህረት አደረገ፣ይቅር አለ
+BelejeGonfoye-185_forgivehavemercy-1,,BelejeGonfoye,185_forgivehavemercy,bik’ɛneʲa,bik’ɛneʲa,,,Bremer2016,,,ምህረት አደረገ፣ይቅር አለ
+Maiyu-186_outside-1,,Maiyu,186_outside,θʊːθa,θʊːθa,,,Bremer2016,,,ውጭ
+Fadashi-186_outside-1,,Fadashi,186_outside,θoːla,θoːla,,,Bremer2016,,,ውጭ
+Undulu-186_outside-1,,Undulu,186_outside,θuːθe,θuːθe,,,Bremer2016,,,ውጭ
+BelejeGonfoye-186_outside-1,,BelejeGonfoye,186_outside,ligogolo,ligogolo,,,Bremer2016,,,ውጭ
+Maiyu-187_new-1,,Maiyu,187_new,t’ɔk’ɔló,t’ɔk’ɔló,,,Bremer2016,,,አዲስ
+Fadashi-187_new-1,,Fadashi,187_new,tokolo / towolo,tokolo,,,Bremer2016,,,አዲስ
+Fadashi-187_new-2,,Fadashi,187_new,tokolo / towolo,towolo,,,Bremer2016,,,አዲስ
+Undulu-187_new-1,,Undulu,187_new,t’ok’oló,t’ok’oló,,,Bremer2016,,,አዲስ
+BelejeGonfoye-187_new-1,,BelejeGonfoye,187_new,giːgoɗi,giːgoɗi,,,Bremer2016,,,አዲስ
+Maiyu-188_meat-1,,Maiyu,188_meat,ʊʔûŋ,ʊʔûŋ,,,Bremer2016,,,ስጋ
+Fadashi-188_meat-1,,Fadashi,188_meat,oʔoŋ,oʔoŋ,,,Bremer2016,,,ስጋ
+Undulu-188_meat-1,,Undulu,188_meat,uqûñ,uqûñ,,,Bremer2016,,,ስጋ
+BelejeGonfoye-188_meat-1,,BelejeGonfoye,188_meat,oʔoɲe,oʔoɲe,,,Bremer2016,,,ስጋ
+Maiyu-189_mosquito-1,,Maiyu,189_mosquito,jámúθ,jámúθ,,,Bremer2016,,,ቢምቢ
+Fadashi-189_mosquito-1,,Fadashi,189_mosquito,uːmuθ,uːmuθ,,,Bremer2016,,,ቢምቢ
+Undulu-189_mosquito-1,,Undulu,189_mosquito,jámúθ,jámúθ,,,Bremer2016,,,ቢምቢ
+BelejeGonfoye-189_mosquito-1,,BelejeGonfoye,189_mosquito,úmúlí,úmúlí,,,Bremer2016,,,ቢምቢ
+Maiyu-190_maybecouldbe-1,,Maiyu,190_maybecouldbe,jɛ́bʊga,jɛ́bʊga,,,Bremer2016,,,ምን አልባት
+Fadashi-190_maybecouldbe-1,,Fadashi,190_maybecouldbe,gaːʔí,gaːʔí,,,Bremer2016,,,ምን አልባት
+Undulu-190_maybecouldbe-1,,Undulu,190_maybecouldbe,amɪʃéːká,amɪʃéːká,,,Bremer2016,,,ምን አልባት
+BelejeGonfoye-190_maybecouldbe-1,,BelejeGonfoye,190_maybecouldbe,aneʔale,aneʔale,,,Bremer2016,,,ምን አልባት
+Maiyu-191_thinkreflect-1,,Maiyu,191_thinkreflect,sɛŋzeŋa,sɛŋzeŋa,,,Bremer2016,,,አሰበ
+Fadashi-191_thinkreflect-1,,Fadashi,191_thinkreflect,sɛːŋané,sɛːŋané,,,Bremer2016,,,አሰበ
+Undulu-191_thinkreflect-1,,Undulu,191_thinkreflect,senːa,senːa,,,Bremer2016,,,አሰበ
+BelejeGonfoye-191_thinkreflect-1,,BelejeGonfoye,191_thinkreflect,dʒɛːrɛne,dʒɛːrɛne,,,Bremer2016,,,አሰበ
+Maiyu-192_lazy-1,,Maiyu,192_lazy,sɔsɔʔ,sɔsɔʔ,,,Bremer2016,,,ሰነፈ
+Fadashi-192_lazy-1,,Fadashi,192_lazy,soːsoʔ,soːsoʔ,,,Bremer2016,,,ሰነፈ
+Undulu-192_lazy-1,,Undulu,192_lazy,zozo,zozo,,,Bremer2016,,,ሰነፈ
+BelejeGonfoye-192_lazy-1,,BelejeGonfoye,192_lazy,dʒódʒó,dʒódʒó,,,Bremer2016,,,ሰነፈ
+Maiyu-193_mud-1,,Maiyu,193_mud,sʊre,sʊre,,,Bremer2016,,,ጭቃ
+Fadashi-193_mud-1,,Fadashi,193_mud,sure,sure,,,Bremer2016,,,ጭቃ
+Undulu-193_mud-1,,Undulu,193_mud,gaːma,gaːma,,,Bremer2016,,,ጭቃ
+BelejeGonfoye-193_mud-1,,BelejeGonfoye,193_mud,átoʔkó,átoʔkó,,,Bremer2016,,,ጭቃ
+Maiyu-194_i1sg-1,,Maiyu,194_i1sg,ali,ali,,,Bremer2016,,,ኣኔ
+Fadashi-194_i1sg-1,,Fadashi,194_i1sg,ali,ali,,,Bremer2016,,,ኣኔ
+Undulu-194_i1sg-1,,Undulu,194_i1sg,ali,ali,,,Bremer2016,,,ኣኔ
+BelejeGonfoye-194_i1sg-1,,BelejeGonfoye,194_i1sg,ali,ali,,,Bremer2016,,,ኣኔ
+Maiyu-195_you2sg-1,,Maiyu,195_you2sg,ŋgó,ŋgó,,,Bremer2016,,,ኣንተ
+Fadashi-195_you2sg-1,,Fadashi,195_you2sg,ngo,ngo,,,Bremer2016,,,ኣንተ
+Undulu-195_you2sg-1,,Undulu,195_you2sg,ɲɦó,ɲɦó,,,Bremer2016,,,ኣንተ
+BelejeGonfoye-195_you2sg-1,,BelejeGonfoye,195_you2sg,ngo,ngo,,,Bremer2016,,,ኣንተ
+Maiyu-196_hesheit3sg-1,,Maiyu,196_hesheit3sg,ɲine,ɲine,,,Bremer2016,,,
+Fadashi-196_hesheit3sg-1,,Fadashi,196_hesheit3sg,ɲine,ɲine,,,Bremer2016,,,
+Undulu-196_hesheit3sg-1,,Undulu,196_hesheit3sg,ɪnːe,ɪnːe,,,Bremer2016,,,
+BelejeGonfoye-196_hesheit3sg-1,,BelejeGonfoye,196_hesheit3sg,ɪnːe,ɪnːe,,,Bremer2016,,,
+Maiyu-197_we1pl-1,,Maiyu,197_we1pl,haθáŋ,haθáŋ,,,Bremer2016,,,
+Fadashi-197_we1pl-1,,Fadashi,197_we1pl,həni,həni,,,Bremer2016,,,
+Undulu-197_we1pl-1,,Undulu,197_we1pl,ɪnːka,ɪnːka,,,Bremer2016,,,
+BelejeGonfoye-197_we1pl-1,,BelejeGonfoye,197_we1pl,ŋːa,ŋːa,,,Bremer2016,,,
+Maiyu-198_youpl2pl-1,,Maiyu,198_youpl2pl,haθú,haθú,,,Bremer2016,,,
+Fadashi-198_youpl2pl-1,,Fadashi,198_youpl2pl,halu,halu,,,Bremer2016,,,
+Undulu-198_youpl2pl-1,,Undulu,198_youpl2pl,haθú,haθú,,,Bremer2016,,,
+BelejeGonfoye-198_youpl2pl-1,,BelejeGonfoye,198_youpl2pl,halú,halú,,,Bremer2016,,,
+Maiyu-199_they3pl-1,,Maiyu,199_they3pl,məré,məré,,,Bremer2016,,,
+Fadashi-199_they3pl-1,,Fadashi,199_they3pl,maré,maré,,,Bremer2016,,,
+Undulu-199_they3pl-1,,Undulu,199_they3pl,maré,maré,,,Bremer2016,,,
+BelejeGonfoye-199_they3pl-1,,BelejeGonfoye,199_they3pl,maré,maré,,,Bremer2016,,,
+Maiyu-200_whisper-1,,Maiyu,200_whisper,hahaʃa,hahaʃa,,,Bremer2016,,,አንሾካሾከ
+Fadashi-200_whisper-1,,Fadashi,200_whisper,haːʃa,haːʃa,,,Bremer2016,,,አንሾካሾከ
+Undulu-200_whisper-1,,Undulu,200_whisper,hahasha,hahasha,,,Bremer2016,,,አንሾካሾከ
+BelejeGonfoye-200_whisper-1,,BelejeGonfoye,200_whisper,haːsɪne,haːsɪne,,,Bremer2016,,,አንሾካሾከ
