@@ -43,7 +43,7 @@ class Dataset(pylexibank.Dataset):
         languages = args.writer.add_languages(lookup_factory="Name")
         args.writer.add_sources()
         concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.gloss), lookup_factory="Name"
+            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english), lookup_factory="Name"
         )
 
         for row in pylexibank.progressbar(data):

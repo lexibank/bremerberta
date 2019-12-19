@@ -41,7 +41,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 40_tomorrow,tomorrow,1329,TOMORROW
 41_termitehill,termite hill,,
 42_cultivateplough,"cultivate, plough",1921,PLOUGH
-43_keepawayblock,"keep away, block",,
+43_keepawayblock,"keep away, block",2762,BLOCK (THE WAY)
 44_stand,stand,1442,STAND
 45_postpillar,"post, pillar",2045,COLUMN
 46_turnaround,turn around,1444,TURN AROUND
@@ -135,7 +135,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 134_dream,dream,2455,DREAMING OR DREAM
 135_village,village,930,VILLAGE
 136_person,person,683,PERSON
-137_darkyellow,dark yellow,,
+137_darkyellow,dark yellow,3706,DARK YELLOW
 138_sleepv,sleep (v.),1585,SLEEP
 139_clawfingernail,"claw, fingernail",2128,CLAW OR NAIL
 140_gift,gift,2982,GIFT
@@ -147,7 +147,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 146_diev,die (v.),1494,DIE
 147_why,why?,1270,WHY
 148_bepregnant,be pregnant,1123,PREGNANT
-149_bleed,bleed,3616,BLEED
+149_bleed,bleed,3615,BLEED
 150_clothclothes,"cloth, clothes",1895,CLOTHES
 151_toplayaninstrument,to play (an instrument),3124,PLAY (INSTRUMENT)
 152_earlyinthemorning,"early, in the morning",672,EARLY
