@@ -15,6 +15,6 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={"lexibank.dataset": ["bremerberta=lexibank_bremerberta:Dataset"]},
-    install_requires=["pylexibank>=2.1"],
+    install_requires=["pylexibank>=2.1", "beautifulsoup4>=4.8.1"],
     extras_require={"test": ["pytest-cldf"]},
 )
