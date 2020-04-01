@@ -1,5 +1,5 @@
 # Contributors
 
 Name | GitHub user | Role
---- | --- | ---
- | @ | maintainer
+ --- | --- | --- 
+Christoph Rzymski | @chrzyki | maintainer

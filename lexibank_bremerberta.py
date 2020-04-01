@@ -56,3 +56,11 @@ class Dataset(pylexibank.Dataset):
                         AmharicGloss=row["Amharic gloss"],
                         Source="Bremer2016",
                     )
+
+        # We explicitly remove the ISO column since none of the languages in
+        # this dataset have an ISO code.
+        args.writer.cldf["LanguageTable"].tableSchema.columns = [
+            col
+            for col in args.writer.cldf["LanguageTable"].tableSchema.columns
+            if col.name != "ISO639P3code"
+        ]
