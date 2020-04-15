@@ -11,20 +11,20 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "A Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia",
+    "dc:title": "CLDF dataset derived from Bremer's \"Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia\" from 2016",
     "dcat:accessURL": "https://github.com/lexibank/bremerberta",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bremerberta",
-            "dc:created": "714198e"
+            "dc:created": "8253b49"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:created": "eWAVE-3.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -118,6 +118,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     },
                     {
                         "datatype": "string",
