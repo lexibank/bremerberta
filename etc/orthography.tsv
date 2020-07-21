@@ -1,0 +1,233 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	mba amotiʷa are, afaɲfaras’	Fadashi, BelejeGonfoye, Maiyu, Undulu	100	U+0061
+l	l	ŋolalolo, oŋgolé hoʃɛle	BelejeGonfoye, Undulu, Fadashi, Maiyu	100	U+006c
+a$	a	k’ola, mbəma	Maiyu, Fadashi, Undulu, BelejeGonfoye	100	U+0061 U+0024
+^a	a	are gundi, aburbudu	Maiyu, BelejeGonfoye, Fadashi, Undulu	100	U+005e U+0061
+o	o	ɗoŋose, oŋgolé hoʃɛle	BelejeGonfoye, Fadashi, Undulu, Maiyu	100	U+006f
+e$	e	ɓáːle, abɛre	BelejeGonfoye, Fadashi, Undulu, Maiyu	100	U+0065 U+0024
+n	n	are gundi, munzóː munenko	BelejeGonfoye, Fadashi, Undulu, Maiyu	100	U+006e
+ɛ	ɛ	nɛgɛnɛge, bɛɗí	BelejeGonfoye, Undulu, Fadashi, Maiyu	100	U+025b
+r	r	are gundi, aburbudu	Fadashi, Undulu, Maiyu, BelejeGonfoye	100	U+0072
+’	<?>	s’ak’a, as’ís’i	Maiyu, Fadashi, BelejeGonfoye, Undulu	100	U+2019
+d	d	are gundi, ndu	Fadashi, BelejeGonfoye, Undulu, Maiyu	100	U+0064
+g	g	are gundi, agúːru	Undulu, BelejeGonfoye, Maiyu, Fadashi	100	U+0067
+_	_	are gundi, li mundʒu li mundʒu	BelejeGonfoye, Maiyu, Fadashi, Undulu	100	U+005f
+b	b	aburbudu, abɔbɔne	BelejeGonfoye, Maiyu, Fadashi, Undulu	100	U+0062
+i$	i	are gundi, amanzi	BelejeGonfoye, Fadashi, Maiyu, Undulu	100	U+0069 U+0024
+u	u	mulhí handuŋú, are gundi	BelejeGonfoye, Fadashi, Undulu, Maiyu	100	U+0075
+i	i	s’is’ia?iɲ, nda ʃimbilu	BelejeGonfoye, Fadashi, Undulu, Maiyu	100	U+0069
+^m	m	maré, mulhí handuŋú	Fadashi, Maiyu, Undulu, BelejeGonfoye	96	U+005e U+006d
+m	m	amanzi, nɛnɛmɛnmeʔi	Fadashi, BelejeGonfoye, Undulu, Maiyu	82	U+006d
+s	s	as’ís’i, íːs’u	BelejeGonfoye, Fadashi, Maiyu, Undulu	75	U+0073
+k	k	s’ak’a, ʃéːk’e	BelejeGonfoye, Maiyu, Undulu, Fadashi	64	U+006b
+^b	b	bɛɗí, biːʲe	BelejeGonfoye, Maiyu, Undulu, Fadashi	56	U+005e U+0062
+ŋ	ŋ	mulhí handuŋú, ɓaŋgó	Maiyu, Fadashi, BelejeGonfoye, Undulu	54	U+014b
+ʔ	ʔ	aʔteʲʔe, amiluʔa	BelejeGonfoye, Undulu, Fadashi, Maiyu	53	U+0294
+e	e	are gundi, θabaholeyu minːegu	BelejeGonfoye, Fadashi, Undulu, Maiyu	53	U+0065
+é$	é	maré, asːé	Undulu, Fadashi, BelejeGonfoye, Maiyu	51	U+00e9 U+0024
+ə	ə	bədé, mbə gɛgɛdəkɛdi	Maiyu, BelejeGonfoye, Fadashi, Undulu	50	U+0259
+u$	u	ndu, agúːru	Undulu, BelejeGonfoye, Fadashi, Maiyu	48	U+0075 U+0024
+í$	í	bɛɗí, máːʃí	Maiyu, Undulu, Fadashi, BelejeGonfoye	47	U+00ed U+0024
+o$	o	ngo, toʷkulalo	BelejeGonfoye, Fadashi, Undulu, Maiyu	47	U+006f U+0024
+ʃ	ʃ	ndu ʃɛfaʔ, máːʃí	Undulu, Maiyu, Fadashi, BelejeGonfoye	47	U+0283
+ɗ	ɗ	bɛɗí, aɗanɗafet	Fadashi, Undulu, BelejeGonfoye, Maiyu	45	U+0257
+aː	aː	siː θaːre, ma gaːʃá	Fadashi, BelejeGonfoye, Maiyu, Undulu	43	U+0061 U+02d0
+ɪ	ɪ	nɛ dʒɛrɪbɪs, bɛ ɪdʒɪgɛri	BelejeGonfoye, Undulu, Maiyu, Fadashi	43	U+026a
+^h	h	haθú, haːʃa	Fadashi, Undulu, BelejeGonfoye, Maiyu	42	U+005e U+0068
+^g	g	gundi, gas’ia	Undulu, Fadashi, Maiyu, BelejeGonfoye	37	U+005e U+0067
+^n	n	ndu, ndə mili	Undulu, BelejeGonfoye, Fadashi, Maiyu	36	U+005e U+006e
+f	f	k’urfe, afaɲfaras’	Undulu, Maiyu, Fadashi	36	U+0066
+í	í	mulhí handuŋú, as’ís’i	Maiyu, Undulu, Fadashi	36	U+00ed
+^k	k	k’urfe, k’ola	BelejeGonfoye, Fadashi, Maiyu, Undulu	34	U+005e U+006b
+ú	ú	abúrbúdu, húhúlú	Undulu, Maiyu, Fadashi, BelejeGonfoye	31	U+00fa
+á	á	jámúθ, k’áfa	Maiyu, Undulu, BelejeGonfoye, Fadashi	31	U+00e1
+^s	s	s’ak’a, siː θaːre	Fadashi, Maiyu, BelejeGonfoye, Undulu	29	U+005e U+0073
+^ɓ	ɓ	ɓáːle, ɓaŋgó	Undulu, BelejeGonfoye, Fadashi, Maiyu	29	U+005e U+0253
+á$	á	θabá, ma gaːʃá	Maiyu, Fadashi, Undulu, BelejeGonfoye	28	U+00e1 U+0024
+ɔ	ɔ	abɔbɔne, sɔsɔʔ	Maiyu, Fadashi, Undulu, BelejeGonfoye	27	U+0254
+oː	oː	aːoːɾi, áŋ moːso	Fadashi, BelejeGonfoye, Undulu	26	U+006f U+02d0
+ó	ó	θórógáː, ágórómbo	Undulu, BelejeGonfoye, Maiyu, Fadashi	25	U+00f3
+^ʃ	ʃ	ʃéːk’e, ʃóːra	Maiyu, Fadashi, Undulu	25	U+005e U+0283
+^ɗ	ɗ	ɗosɛne, ɗoŋose	Maiyu, BelejeGonfoye, Fadashi, Undulu	25	U+005e U+0257
+θ	θ	siː θaːre, haθú	Undulu, Maiyu, Fadashi	23	U+03b8
+ɲ	ɲ	laː ɲiɲdolo, uʔweː duɲku	BelejeGonfoye, Maiyu, Fadashi, Undulu	23	U+0272
+ó$	ó	ɓaŋgó, t’ok’oló	Undulu, Maiyu, Fadashi, BelejeGonfoye	23	U+00f3 U+0024
+h	h	mulhí handuŋú, mehi	Maiyu, Undulu, Fadashi, BelejeGonfoye	23	U+0068
+w	w	awawardʒi, áːwáwórés’	BelejeGonfoye, Undulu, Maiyu, Fadashi	21	U+0077
+ú$	ú	mulhí handuŋú, haθú	Maiyu, Undulu, Fadashi, BelejeGonfoye	20	U+00fa U+0024
+r$	r	or, ambʊdúr	Maiyu, Undulu, Fadashi, BelejeGonfoye	18	U+0072 U+0024
+^d	d	dʊ́ʷosh, diɗí	BelejeGonfoye, Maiyu, Undulu, Fadashi	18	U+005e U+0064
+^aː	aː	aːɓila, aːmondín	Undulu, Fadashi, BelejeGonfoye, Maiyu	17	U+005e U+0061 U+02d0
+ŋ$	ŋ	adːagoʃ gáŋ, dʒíːdímáŋ	Maiyu, Undulu, Fadashi	16	U+014b U+0024
+z	z	amanzi, awaza	Maiyu, Undulu, Fadashi	16	U+007a
+^θ	θ	θabá, θɛ́lːé	Undulu, Maiyu, Fadashi	14	U+005e U+03b8
+dʒ	dʒ	li mundʒu li mundʒu, la mundʒoʷ	BelejeGonfoye, Undulu, Maiyu, Fadashi	14	U+0064 U+0292
+eː	eː	p’eːla, beː tuká	Fadashi, BelejeGonfoye, Maiyu, Undulu	13	U+0065 U+02d0
+iː	iː	siː θaːre, giːgoɗi	BelejeGonfoye, Fadashi, Maiyu, Undulu	13	U+0069 U+02d0
+l$	l	ʃimbil, bɪmːbil	Maiyu, Fadashi, Undulu, BelejeGonfoye	13	U+006c U+0024
+^f	f	fə́rada, fɛdari	Maiyu, Fadashi, Undulu	13	U+005e U+0066
+áː	áː	máːʃí, wáːsa	Maiyu, Undulu, Fadashi, BelejeGonfoye	13	U+00e1 U+02d0
+^l	l	la:bá, lara gundi	BelejeGonfoye, Maiyu, Fadashi	12	U+005e U+006c
+^r	r	rô, rɛgis’e	Fadashi, Undulu, Maiyu, BelejeGonfoye	12	U+005e U+0072
+ɓ	ɓ	aːɓila, ndá ɓɛ́lí	BelejeGonfoye, Undulu, Fadashi	12	U+0253
+t	t	metɪkeː, beː tuká	BelejeGonfoye, Maiyu, Fadashi, Undulu	11	U+0074
+iʲ	iʲ	biʲé, k’ɛtʃ’iʲa	BelejeGonfoye, Maiyu, Undulu, Fadashi	11	U+0069 U+02b2
+ʊ	ʊ	adːʊk’ʊʃ, sʊre	Maiyu	11	U+028a
+uː	uː	ɓuːɗe, ɓuːdaː	BelejeGonfoye, Undulu, Fadashi	11	U+0075 U+02d0
+ʃ$	ʃ	k’oʃ, k’ɔʃ	Maiyu, Fadashi, Undulu	11	U+0283 U+0024
+íː	íː	p’íːpíʲó, gíːjé	Maiyu, Undulu, BelejeGonfoye, Fadashi	10	U+00ed U+02d0
+^w	w	wɛ́lːa, wáːsa	BelejeGonfoye, Undulu, Fadashi, Maiyu	10	U+005e U+0077
+^p	p	p’eːla, p’íːpíʲó	Maiyu	10	U+005e U+0070
+ə́	ə́	fə́rada, maːbə́ gɛrəŋí	Maiyu, Undulu	10	U+0259 U+0301
+ɛ́	ɛ́	wɛ́lːa, mɛnɛ́mɛɲɪní	Maiyu, Undulu, Fadashi	10	U+025b U+0301
+ʔ$	ʔ	ndu ʃɛfaʔ, agóʔ	Undulu, Fadashi, Maiyu	9	U+0294 U+0024
+nː	nː	ɪnːe, senːa	Undulu, BelejeGonfoye, Fadashi, Maiyu	9	U+006e U+02d0
+^o	o	or, olgɪne	Undulu, BelejeGonfoye, Fadashi	9	U+005e U+006f
+lː	lː	wɛ́lːa, θɛ́lːé	Maiyu, BelejeGonfoye, Fadashi, Undulu	8	U+006c U+02d0
+^dʒ	dʒ	dʒidɛne, dʒíːdímáŋ	BelejeGonfoye, Maiyu, Undulu	8	U+005e U+0064 U+0292
+úː	úː	agúːru, gúːɗɛ	Undulu, Maiyu, Fadashi	8	U+00fa U+02d0
+tʃ	tʃ	ʃeːtʃ’e, k’ɛtʃ’iʲa	BelejeGonfoye, Undulu, Maiyu	8	U+0074 U+0283
+óː	óː	ʃóːra, góːɗé	Undulu, BelejeGonfoye, Fadashi	8	U+00f3 U+02d0
+ɾ	ɾ	aːʷoːɾi, k’ideɾe	BelejeGonfoye	8	U+027e
+^t	t	toʷkulalo, t’ɔk’ɔló	Undulu, BelejeGonfoye, Maiyu, Fadashi	8	U+005e U+0074
+^ɪ	ɪ	ɪnːe, ɪŋgolé holɛfa	BelejeGonfoye, Fadashi, Undulu, Maiyu	8	U+005e U+026a
+mː	mː	amːá, bɪmːbil	Undulu, Maiyu, Fadashi, BelejeGonfoye	7	U+006d U+02d0
+^á	á	áʃɪmbriŋa, áŋɔna	Maiyu, BelejeGonfoye, Undulu, Fadashi	7	U+005e U+00e1
+j	j	muje muje, gíːjé	Fadashi, Undulu	7	U+006a
+^j	j	jámúθ, jom	Maiyu, Undulu, BelejeGonfoye	7	U+005e U+006a
+é	é	menémeniɲi, ɪŋgolé holɛfa	Fadashi, Undulu, Maiyu, BelejeGonfoye	7	U+00e9
+y	y	aɲi ŋoluwɛleya, hiːʔiya	Undulu, BelejeGonfoye	6	U+0079
+eʲ	eʲ	aʔteʲʔe, waː meʲile	BelejeGonfoye, Fadashi	6	U+0065 U+02b2
+s$	s	alhamís, nɛ dʒɛrɪbɪs	Maiyu, BelejeGonfoye, Fadashi, Undulu	6	U+0073 U+0024
+ʊ́	ʊ́	amʊ́dudú, gʊ́da	Maiyu	6	U+028a U+0301
+^mː	mː	mːanko, mːoːne	Fadashi, BelejeGonfoye, Undulu	6	U+005e U+006d U+02d0
+t$	t	ɗaɗafet, aɗanɗafet	Undulu, Fadashi	5	U+0074 U+0024
+^áː	áː	áːbɔbɔʔí, áːʔó	Undulu, Maiyu	5	U+005e U+00e1 U+02d0
+lh	lh	mulhí handuŋú, alhamís	Undulu, Fadashi, Maiyu	5	U+006c U+0068
+p	p	p’íːpíʲó, ahap’u	Maiyu	5	U+0070
+ʊː	ʊː	ɗʊːθa, ɓʊːdá	Maiyu, Fadashi	5	U+028a U+02d0
+sː	sː	asːé, asːəbá	Maiyu, Fadashi, Undulu	5	U+0073 U+02d0
+θ$	θ	jámúθ, yəguθ	Maiyu, Fadashi, Undulu	5	U+03b8 U+0024
+^ɲ	ɲ	ɲine, ɲɦó	Undulu, BelejeGonfoye, Maiyu, Fadashi	5	U+005e U+0272
+ns	ns	ansaːre, munsú	Maiyu, Fadashi	5	U+006e U+0073
+ɛː	ɛː	ʃúl ɲɛːra, dʒɛːrɛne	Fadashi, BelejeGonfoye, Undulu, Maiyu	5	U+025b U+02d0
+iːʲ	iːʲ	biːʲe, giːʲa menːdo	BelejeGonfoye, Undulu, Fadashi	4	U+0069 U+02d0 U+02b2
+éː	éː	ʃéːk’e, amɪʃéːká	Undulu, Maiyu, Fadashi	4	U+00e9 U+02d0
+dː	dː	adːɛ́wa, adːagoʃ gáŋ	Maiyu, Undulu	3	U+0064 U+02d0
+’$	<?>	afaɲfaras’, anfanforos’	Maiyu, Fadashi, Undulu	3	U+2019 U+0024
+^tʃ	tʃ	tʃ’ɛka, tʃ’oɓɛneʲa	BelejeGonfoye, Fadashi	3	U+005e U+0074 U+0283
+íʲ	íʲ	s’ɪs’íʲa, dʒín daːlíʲa	Maiyu	3	U+00ed U+02b2
+rw	rw	asʊrwâl, asːurwal	Maiyu, BelejeGonfoye, Fadashi	3	U+0072 U+0077
+ɔ́	ɔ́	ɗɔŋɔ́ʃa, bɔñɔ́ʃ	Maiyu	3	U+0254 U+0301
+uʷ	uʷ	guʷane, amuʷgaʔo	BelejeGonfoye	3	U+0075 U+02b7
+^íː	íː	íːs’u, íːla	Maiyu, Fadashi, Undulu	3	U+005e U+00ed U+02d0
+rʃ	rʃ	θə́rʃa, tirʃa	Maiyu, Fadashi, Undulu	3	U+0072 U+0283
+ô$	ô	rô	Undulu, BelejeGonfoye, Fadashi	3	U+00f4 U+0024
+ɲ$	ɲ	amasíɲ, s’is’ia?iɲ	Fadashi, Maiyu	3	U+0272 U+0024
+a:	aː	la:bá, ama:ɗé	BelejeGonfoye, Fadashi	2	U+0061 U+003a
+d$	d	aɗaɗáfɛd, abarəbɛd	Maiyu	2	U+0064 U+0024
+-	<?>	p’aːra -ʔi, ʃúnga -áŋ	Maiyu	2	U+002d
+^ɛ	ɛ	ɛlenelo, ɛlenolo	BelejeGonfoye, Fadashi	2	U+005e U+025b
+^sh	sh	shɪle, sher íle	Undulu, Fadashi	2	U+005e U+0073 U+0068
+eː$	eː	metɪkeː, beː	BelejeGonfoye	2	U+0065 U+02d0 U+0024
+^t͡ʃ	tʃ	t͡ʃ’uwé, t͡ʃ’uleʔe	BelejeGonfoye	2	U+005e U+0074 U+0361 U+0283
+ɛ́ː	ɛ́ː	͡tʃɛ́ːdi, hɛ́ːbena	Undulu	2	U+025b U+0301 U+02d0
+óːʃ	óːʃ	bóːʃa, ɗóːʃɛfa	Undulu	2	U+00f3 U+02d0 U+0283
+ɔː	ɔː	amɔːzó, mʷɔːne	Maiyu, BelejeGonfoye	2	U+0254 U+02d0
+aː$	aː	daː, ɓuːdaː	Undulu, Maiyu	2	U+0061 U+02d0 U+0024
+^eː	eː	eːlɛna, eːgoːɗa	BelejeGonfoye, Fadashi	2	U+005e U+0065 U+02d0
+ɪ́	ɪ́	aʃirɪ́ŋk’íθ, əndɪ́ge	Maiyu, Undulu	2	U+026a U+0301
+n$	n	aːmondín, aːʃorén	Undulu	2	U+006e U+0024
+éːʃ	éːʃ	gwa léːʃo, ɲéːʃe	Undulu	2	U+00e9 U+02d0 U+0283
+ñ	ɲ	bɔñɔ́ʃ, afiiña	Maiyu, Undulu	2	U+00f1
+gw	gw	ʃulgwaːlé, bobo gwalé	Fadashi	2	U+0067 U+0077
+ñ$	ɲ	mánañ, uqûñ	Maiyu, Undulu	2	U+00f1 U+0024
+ɛ$	ɛ	gúːɗɛ, lɛ	Fadashi	2	U+025b U+0024
+^u	u	uʔweː duɲku, uqûñ	Undulu, BelejeGonfoye	2	U+005e U+0075
+^ŋ	ŋ	ŋolalolo, ŋgó	Maiyu, BelejeGonfoye	2	U+005e U+014b
+óːh	óːh	hóːhólú, hóːhór	Undulu, Fadashi	2	U+00f3 U+02d0 U+0068
+nʃ	nʃ	həːnʃe, mə́nʃó	Undulu	2	U+006e U+0283
+^z	z	zozo, zigi	Undulu	2	U+005e U+007a
+^íí	íí	ííla, íís’u	Undulu, Maiyu	2	U+005e U+00ed U+00ed
+^uː	uː	uːmuθ, uːwé dunk’u	BelejeGonfoye, Fadashi	2	U+005e U+0075 U+02d0
+sh	sh	máːshũ, hahasha	Maiyu, Undulu	2	U+0073 U+0068
+^ɔ	ɔ	ɔlgɪɲi, ɔr	Maiyu	2	U+005e U+0254
+éː$	éː	béː	Maiyu, Undulu	2	U+00e9 U+02d0 U+0024
+ŋːh	ŋːh	aʃoŋːhár, haŋːhir	Undulu	2	U+014b U+02d0 U+0068
+ɔ́ː	ɔ́ː	ʃɔ́ːra, rɔ́ːndu	Maiyu	2	U+0254 U+0301 U+02d0
+rs	rs	al kʊ́rsi, alkúrsi	Maiyu, Undulu	2	U+0072 U+0073
+û	û	ʊʔûŋ, uqûñ	Maiyu, Undulu	2	U+00fb
+ʊʷ	ʊʷ	bʊʷa	Maiyu	1	U+028a U+02b7
+és	és	áːwáwórés’	Undulu	1	U+00e9 U+0073
+ŋh	ŋh	agoŋhór	Undulu	1	U+014b U+0068
+aʲ	aʲ	aːmaʲé	BelejeGonfoye	1	U+0061 U+02b2
+î	î	alfîl	Undulu	1	U+00ee
+wː	wː	awːulé	BelejeGonfoye	1	U+0077 U+02d0
+lw	lw	alwarəga	Fadashi	1	U+006c U+0077
+^̄n	̄n	̄nɛbenːa	Fadashi	1	U+005e U+0304 U+006e
+ŋʲ	ŋʲ	aŋʲa milowe	BelejeGonfoye	1	U+014b U+02b2
+oʷ$	oʷ	la mundʒoʷ	BelejeGonfoye	1	U+006f U+02b7 U+0024
+áː$	áː	θórógáː	Undulu	1	U+00e1 U+02d0 U+0024
+^uːʷ	uːʷ	uːʷé	BelejeGonfoye	1	U+005e U+0075 U+02d0 U+02b7
+kʷ	kʷ	ɗakʷoaʔe	BelejeGonfoye	1	U+006b U+02b7
+^ə	ə	əndɪ́ge	Undulu	1	U+005e U+0259
+^mʷ	mʷ	mʷɔːne	BelejeGonfoye	1	U+005e U+006d U+02b7
+óʃ$	óʃ	boŋkóʃ	Undulu	1	U+00f3 U+0283 U+0024
+óʃ	óʃ	bóʃa	Fadashi	1	U+00f3 U+0283
+aː͡d	aːd	maː͡dʒíhe	Undulu	1	U+0061 U+02d0 U+0361 U+0064
+ʒ	ʒ	maː͡dʒíhe	Undulu	1	U+0292
+n͡dʒ	ndʒ	men͡dʒɛf	Undulu	1	U+006e U+0361 U+0064 U+0292
+f$	f	men͡dʒɛf	Undulu	1	U+0066 U+0024
+bb	bb	abbá	Maiyu	1	U+0062 U+0062
+bː	bː	abːa	Fadashi	1	U+0062 U+02d0
+b͡a	ba	aːb͡aiyó	Undulu	1	U+0062 U+0361 U+0061
+iʷ	iʷ	mba amotiʷa are	BelejeGonfoye	1	U+0069 U+02b7
+o:	oː	ho:ré	Undulu	1	U+006f U+003a
+ʊ́ʷ	ʊ́ʷ	dʊ́ʷosh	Maiyu	1	U+028a U+0301 U+02b7
+sh$	sh	dʊ́ʷosh	Maiyu	1	U+0073 U+0068 U+0024
+óːʃ$	óːʃ	tóːʃ	Undulu	1	U+00f3 U+02d0 U+0283 U+0024
+óːs	óːs	mːóːsɛle	Undulu	1	U+00f3 U+02d0 U+0073
+ʔw	ʔw	uʔweː duɲku	BelejeGonfoye	1	U+0294 U+0077
+sʃ	sʃ	hosʃoɗaŋ	Fadashi	1	U+0073 U+0283
+kː	kː	təkːolé	Undulu	1	U+006b U+02d0
+oʷ	oʷ	toʷkulalo	BelejeGonfoye	1	U+006f U+02b7
+ŋ́̊$	ŋ́̊	mɪʃiŋ́̊	Undulu	1	U+014b U+0301 U+030a U+0024
+ʊ́ː	ʊ́ː	fʊ́ːfúr	Maiyu	1	U+028a U+0301 U+02d0
+^aːʷ	aːʷ	aːʷoːɾi	BelejeGonfoye	1	U+005e U+0061 U+02d0 U+02b7
+m$	m	jom	Maiyu	1	U+006d U+0024
+mʷ	mʷ	le mʷoɲʃo	BelejeGonfoye	1	U+006d U+02b7
+ɲʃ	ɲʃ	le mʷoɲʃo	BelejeGonfoye	1	U+0272 U+0283
+^y	y	yəguθ	Maiyu	1	U+005e U+0079
+aa	aː	gíndaalía	Undulu	1	U+0061 U+0061
+^gw	gw	gwa léːʃo	Undulu	1	U+005e U+0067 U+0077
+əː	əː	həːnʃe	Undulu	1	U+0259 U+02d0
+aːʲ	aːʲ	ɓaːʲe	Fadashi	1	U+0061 U+02d0 U+02b2
+^i	i	iʔile	Fadashi	1	U+005e U+0069
+^iː	iː	iːle	BelejeGonfoye	1	U+005e U+0069 U+02d0
+éé	éé	k’ééda	Maiyu	1	U+00e9 U+00e9
+^∅͡	<?>	͡tʃɛ́ːdi	Undulu	1	U+005e U+2205 U+0361
+éʃ	éʃ	féʃa	Maiyu	1	U+00e9 U+0283
+r͡a	ra	ar͡ai uwesi	BelejeGonfoye	1	U+0072 U+0361 U+0061
+éːs	éːs	héːsa	Undulu	1	U+00e9 U+02d0 U+0073
+ə$	ə	maːbə	Maiyu	1	U+0259 U+0024
+ũ$	ũ	máːshũ	Maiyu	1	U+0169 U+0024
+ěː$	ěː	jěː	Undulu	1	U+011b U+02d0 U+0024
+l͡dʒ	ldʒ	wol͡dʒiŋʔi	Undulu	1	U+006c U+0361 U+0064 U+0292
+n:	nː	tɛn:te	BelejeGonfoye	1	U+006e U+003a
+â	â	asʊrwâl	Maiyu	1	U+00e2
+ɳ͡_	ɳ_	haɳ͡ dʒir	Fadashi	1	U+0273 U+0361 U+005f
+ɔ$	ɔ	rɔ	Maiyu	1	U+0254 U+0024
+óó	óó	róóndu	Fadashi	1	U+00f3 U+00f3
+ŋː	ŋː	aŋːoní	Undulu	1	U+014b U+02d0
+?	<?>	s’is’ia?iɲ	Fadashi	1	U+003f
+dd	dd	addáwa	Undulu	1	U+0064 U+0064
+aːʷ	aːʷ	mulaːʷo	BelejeGonfoye	1	U+0061 U+02d0 U+02b7
+^e	e	eʔafiːŋa	Fadashi	1	U+005e U+0065
+ii	iː	afiiña	Undulu	1	U+0069 U+0069
+^ʊ	ʊ	ʊʔûŋ	Maiyu	1	U+005e U+028a
+q	q	uqûñ	Undulu	1	U+0071
+^ú	ú	úmúlí	BelejeGonfoye	1	U+005e U+00fa
+ɦ	ɦ	ɲɦó	Undulu	1	U+0266
+^ŋː	ŋː	ŋːa	BelejeGonfoye	1	U+005e U+014b U+02d0

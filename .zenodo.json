@@ -1,0 +1,27 @@
+{
+    "title": "CLDF dataset derived from Bremer's \"Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia\" from 2016",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Christoph Rzymski"
+        },
+        {
+            "name": "Kristina Pianykh"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bremer, Nate D. (2016): A Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia. SIL Electronic Survey Reports 2016-007. Dallas: SIL International.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
