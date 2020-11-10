@@ -7,13 +7,19 @@
     ],
     "creators": [
         {
-            "name": "Christoph Rzymski"
-        },
-        {
-            "name": "Kristina Pianykh"
+            "name": "Nate D. Bremer"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        },
+        {
+            "name": "Kristina Pianykh",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
@@ -22,6 +28,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bremer, Nate D. (2016): A Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia. SIL Electronic Survey Reports 2016-007. Dallas: SIL International.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }

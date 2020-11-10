@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Bremer, Nate D. (2016): A Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia. SIL Electronic Survey Reports 2016-007. Dallas: SIL International.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://www.sil.org/resources/publications/entry/69953
 
@@ -29,7 +29,8 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user        | Description                          | Role
 ---                | ---                | ---                                  | ---
-Christoph Rzymski  | @chrzyki           | patron, code                         | Author
-Kristina Pianykh   | @Kristina-Pianykh  | concepts, languages                  | Author
+Nate D. Bremer     |                    |                                      | Author
+Christoph Rzymski  | @chrzyki           | patron, code                         | Other
+Kristina Pianykh   | @Kristina-Pianykh  | concepts, languages                  | Other
 
 

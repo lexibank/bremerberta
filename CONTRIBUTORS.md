@@ -2,5 +2,6 @@
 
 Name               | GitHub user        | Description                          | Role
 ---                | ---                | ---                                  | ---
-Christoph Rzymski  | @chrzyki           | patron, code                         | Author
-Kristina Pianykh   | @Kristina-Pianykh  | concepts, languages                  | Author
+Nate D. Bremer     |                    |                                      | Author
+Christoph Rzymski  | @chrzyki           | patron, code                         | Other
+Kristina Pianykh   | @Kristina-Pianykh  | concepts, languages                  | Other
