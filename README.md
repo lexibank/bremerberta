@@ -1,5 +1,7 @@
 # CLDF dataset derived from Bremer's "Sociolinguistic Survey of Six Berta Speech Varieties in Ethiopia" from 2016
 
+[![CLDF validation](https://github.com/lexibank/bremerberta/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bremerberta/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -20,7 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/bremerberta.svg?branch=master)](https://travis-ci.org/lexibank/bremerberta)
+[![CLDF validation](https://github.com/lexibank/bremerberta/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bremerberta/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 75%](https://img.shields.io/badge/Glottolog-75%25-yellow.svg "Glottolog: 75%")
 ![Concepticon: 92%](https://img.shields.io/badge/Concepticon-92%25-green.svg "Concepticon: 92%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
