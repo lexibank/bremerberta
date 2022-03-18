@@ -10,10 +10,16 @@ class CustomLexeme(pylexibank.Lexeme):
     AmharicGloss = attr.ib(default=None)
 
 
+@attr.s
+class CustomLanguage(pylexibank.Language):
+    Family = attr.ib(default="Berta")
+
+
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "bremerberta"
     lexeme_class = CustomLexeme
+    language_class = CustomLanguage
 
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},
@@ -56,6 +62,7 @@ class Dataset(pylexibank.Dataset):
                         Value=lexeme,
                         AmharicGloss=row["Amharic gloss"],
                         Source="Bremer2016",
+
                     )
 
         # We explicitly remove the ISO column since none of the languages in
