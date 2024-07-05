@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/bremerberta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.1-1-gc4498c3",
             "dc:title": "Repository"
         },
         {
