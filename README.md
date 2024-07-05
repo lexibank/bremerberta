@@ -29,14 +29,14 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 4
-- **Concepts:** 200
+- **Varieties:** 4 (linked to 3 different Glottocodes)
+- **Concepts:** 200 (linked to 183 different Concepticon concept sets)
 - **Lexemes:** 809
 - **Sources:** 1
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
 - **Tokens:** 4,723
-- **Segments:** 107 (0 BIPA errors, 0 CTLS sound class errors, 107 CLTS modified)
+- **Segments:** 107 (0 BIPA errors, 0 CLTS sound class errors, 107 CLTS modified)
 - **Inventory size (avg):** 71.50
 
 # Contributors
@@ -44,8 +44,8 @@ Conceptlists in Concepticon:
 Name               | GitHub user        | Description                          | Role
 ---                | ---                | ---                                  | ---
 Nate D. Bremer     |                    |                                      | Author
-Christoph Rzymski  | @chrzyki           | patron, code                         | Other
-Kristina Pianykh   | @Kristina-Pianykh  | concepts, languages                  | Other
+Christoph Rzymski  | @chrzyki           | patron, code                         | Editor
+Kristina Pianykh   | @Kristina-Pianykh  | concepts, languages                  | Editor
 
 
 
