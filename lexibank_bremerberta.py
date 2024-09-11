@@ -13,6 +13,7 @@ class CustomLexeme(pylexibank.Lexeme):
 @attr.s
 class CustomLanguage(pylexibank.Language):
     Family = attr.ib(default="Berta")
+    Region = attr.ib(default=None)
 
 
 class Dataset(pylexibank.Dataset):

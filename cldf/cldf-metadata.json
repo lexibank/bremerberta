@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/bremerberta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-2-g2725c78",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.4"
+            "dc:description": "3.12.5"
         },
         {
             "dc:title": "python-packages",
@@ -216,6 +216,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Region"
                     }
                 ],
                 "primaryKey": [
