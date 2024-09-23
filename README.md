@@ -23,13 +23,13 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/lexibank/bremerberta/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bremerberta/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 75%](https://img.shields.io/badge/Glottolog-75%25-yellow.svg "Glottolog: 75%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 92%](https://img.shields.io/badge/Concepticon-92%25-green.svg "Concepticon: 92%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 4 (linked to 3 different Glottocodes)
+- **Varieties:** 4 (linked to 4 different Glottocodes)
 - **Concepts:** 200 (linked to 183 different Concepticon concept sets)
 - **Lexemes:** 809
 - **Sources:** 1

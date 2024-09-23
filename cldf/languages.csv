@@ -1,5 +1,5 @@
-ID,Name,Glottocode,Glottolog_Name,Macroarea,Latitude,Longitude,Family
-Maiyu,Maiyu,mayu1240,Mayu,Northeast Africa,10.473464,34.540485,Berta
-Fadashi,Fadashi,fada1248,Fadashi,Northeast Africa,9.585863,34.677096,Berta
-Undulu,Undulu,undu1236,Undu,Northeast Africa,10.314359,34.778879,Berta
-BelejeGonfoye,Beleje Gonfoye,,,Northeast Africa,9.097105,36.203337,Berta
+ID,Name,Glottocode,Glottolog_Name,Macroarea,Latitude,Longitude,Family,Region
+Maiyu,Maiyu,mayu1240,Mayu,Africa,10.473464,34.540485,Berta,Northeast Africa
+Fadashi,Fadashi,fada1248,Fadashi,Africa,9.585863,34.677096,Berta,Northeast Africa
+Undulu,Undulu,undu1236,Undu,Africa,10.314359,34.778879,Berta,Northeast Africa
+BelejeGonfoye,Beleje Gonfoye,goba1245,Gobato,Africa,9.097105,36.203337,Berta,Northeast Africa
